@@ -1,0 +1,212 @@
+{
+  "channel": "English free course (@English_news_free)",
+  "note": "Ketma-ket (sequential) rejim: skript ro'yxat tartibida keyingi yuborilmagan postni tashlaydi. 'title' va 'emoji' rasm-karta uchun. 'answer' bo'lsa - test, javob kechikib yuboriladi.",
+  "posts": [
+    {
+      "id": "p01", "type": "vocabulary", "level": "A1", "emoji": "🔤",
+      "title": "3 Easy Words",
+      "text": "🔤 WORD OF THE DAY · A1\n\n📌 happy /ˈhæpi/ — baxtli\n📌 friend /frend/ — do'st\n📌 home /həʊm/ — uy\n\n💬 I am happy at home with my friend.\n(Do'stim bilan uyda baxtliman.)\n\n#vocabulary #A1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p02", "type": "fact", "level": "A2", "emoji": "🤯",
+      "title": "Did you know?",
+      "text": "🤯 DID YOU KNOW?\n\nEnglish has about 170,000 words — but an average person uses only 3,000 in daily life!\n\n🇺🇿 Ingliz tilida ~170,000 so'z bor, lekin kundalik hayotda odam atigi 3,000 tasini ishlatadi. Demak ko'p so'z yodlash shart emas — eng kerakliларini o'rganing!\n\n💡 word /wɜːd/ — so'z\n\n#fact #motivation #EnglishFreeCourse"
+    },
+    {
+      "id": "p03", "type": "topic", "level": "A1", "emoji": "🌍",
+      "title": "Topic: My Family",
+      "text": "🌍 TOPIC · A1 — My Family\n\nUseful words:\n• mother /ˈmʌðə/ — ona\n• father /ˈfɑːðə/ — ota\n• sister /ˈsɪstə/ — opa/singil\n• brother /ˈbrʌðə/ — aka/uka\n\n💬 I have a big family. I love my mother and father.\n\n✍️ Your turn: \"I have ___ brothers and ___ sisters.\"\n\n#topic #A1 #speaking #EnglishFreeCourse"
+    },
+    {
+      "id": "p04", "type": "test", "level": "A2", "emoji": "📝",
+      "title": "Quick Test",
+      "text": "📝 GRAMMAR TEST · A2\n\nShe ____ to school every day.\n\nA) go\nB) goes\nC) going\nD) gone\n\n💭 30 soniyada javob toping! 👇",
+      "answer": "✅ Javob: B) goes\n\n📖 Present Simple'da he/she/it bilan fe'lga -s/-es qo'shiladi.\n\n#test #grammar #A2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p05", "type": "tip", "level": "A2", "emoji": "💡",
+      "title": "How to learn faster",
+      "text": "💡 LEARNING TIP\n\nLearn words in groups, not alone!\n\nInstead of just \"apple\", learn:\nred apple 🍎, green apple, sweet apple, to eat an apple.\n\n🇺🇿 So'zni yolg'iz emas, gap ichida yodlang — miya kontekst bilan tezroq eslab qoladi.\n\n#tip #vocabulary #EnglishFreeCourse"
+    },
+    {
+      "id": "p06", "type": "vocabulary", "level": "A2", "emoji": "🔤",
+      "title": "Daily Verbs",
+      "text": "🔤 USEFUL VERBS · A2\n\n📌 improve /ɪmˈpruːv/ — yaxshilamoq\n📌 practice /ˈpræktɪs/ — mashq qilmoq\n📌 remember /rɪˈmembə/ — eslamoq\n\n💬 Practice every day to improve your English.\n(Inglizchangizni yaxshilash uchun har kuni mashq qiling.)\n\n#vocabulary #A2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p07", "type": "fact", "level": "B1", "emoji": "🌐",
+      "title": "Most spoken language",
+      "text": "🌐 DID YOU KNOW?\n\nEnglish is the official language of the sky ✈️ — all pilots and air traffic controllers must speak English, no matter their country!\n\n🇺🇿 Osmonning rasmiy tili — ingliz tili. Barcha uchuvchilar qaysi davlatdan bo'lishidan qat'i nazar ingliz tilida gaplashadi.\n\n#fact #B1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p08", "type": "grammar", "level": "A1", "emoji": "📚",
+      "title": "to be: am/is/are",
+      "text": "📚 GRAMMAR · A1 — to be\n\nI ➡️ am\nHe / She / It ➡️ is\nYou / We / They ➡️ are\n\n💬 I am a student. She is a teacher. They are friends.\n\n⚠️ Xato: ❌ He are happy → ✅ He is happy\n\n#grammar #A1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p09", "type": "topic", "level": "B1", "emoji": "🌍",
+      "title": "Topic: Uzbekistan",
+      "text": "🌍 TOPIC · B1 — My Country\n\n• ancient city — qadimiy shahar\n• tradition — an'ana\n• hospitality — mehmondo'stlik\n• landmark — diqqatga sazovor joy\n\n💬 Uzbekistan is famous for its ancient cities like Samarkand and Bukhara, and for the hospitality of its people.\n\n✍️ IELTS Speaking: \"Describe your country.\"\n\n#topic #B1 #IELTS #EnglishFreeCourse"
+    },
+    {
+      "id": "p10", "type": "test", "level": "B1", "emoji": "📝",
+      "title": "Vocabulary Test",
+      "text": "📝 VOCAB TEST · B1\n\nThe noise was too ____ to sleep.\n\nA) loud\nB) tall\nC) heavy\nD) wide\n\n💭 Javob 👇",
+      "answer": "✅ Javob: A) loud\n\n📖 loud = baland (ovoz). tall=bo'yi baland, heavy=og'ir, wide=keng.\n\n#test #vocabulary #B1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p11", "type": "idiom", "level": "B1", "emoji": "🗣",
+      "title": "Idiom: Piece of cake",
+      "text": "🗣 IDIOM OF THE DAY\n\n🍰 \"a piece of cake\" — juda oson ish\n\n💬 The exam was a piece of cake!\n(Imtihon juda oson edi!)\n\n🇺🇿 So'zma-so'z \"bir bo'lak tort\" emas — \"juda oson\" degani. IELTS Speaking'da idioma ishlatish ballni oshiradi.\n\n#idiom #B1 #speaking #EnglishFreeCourse"
+    },
+    {
+      "id": "p12", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "title": "Goal & Effort",
+      "text": "🔤 WORD OF THE DAY · B1\n\n📌 achieve /əˈtʃiːv/ — erishmoq\n📌 goal /ɡəʊl/ — maqsad\n📌 effort /ˈefət/ — harakat\n\n💬 With effort, you can achieve any goal.\n(Harakat bilan har qanday maqsadga erishish mumkin.)\n\n#vocabulary #B1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p13", "type": "fact", "level": "B1", "emoji": "📖",
+      "title": "Shortest sentence",
+      "text": "📖 DID YOU KNOW?\n\nThe shortest complete sentence in English is just two words: \"I am.\"\n\n🇺🇿 Ingliz tilidagi eng qisqa to'liq gap — atigi 2 so'z: \"I am.\" (ega + fe'l). Gap to'liq bo'lishi uchun shu yetarli!\n\n#fact #grammar #EnglishFreeCourse"
+    },
+    {
+      "id": "p14", "type": "grammar", "level": "A2", "emoji": "📚",
+      "title": "Present Continuous",
+      "text": "📚 GRAMMAR · A2 — Present Continuous\n\nam/is/are + V-ing → hozir bo'layotgan ish\n\n💬 I am studying now. She is reading a book.\n\n⚠️ Xato: ❌ I studying → ✅ I am studying\n\n#grammar #A2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p15", "type": "topic", "level": "B2", "emoji": "🌍",
+      "title": "Topic: Technology",
+      "text": "🌍 TOPIC · B2 — Technology\n\n• device — qurilma\n• social media — ijtimoiy tarmoq\n• benefit — foyda\n• drawback — kamchilik\n\n💬 Smartphones have many benefits, but one drawback is that people spend too much time on social media.\n\n✍️ IELTS Writing: foyda va kamchiliklarни muvozanat bilan yozing.\n\n#topic #B2 #IELTS #EnglishFreeCourse"
+    },
+    {
+      "id": "p16", "type": "test", "level": "B1", "emoji": "📝",
+      "title": "Conditionals Test",
+      "text": "📝 GRAMMAR TEST · B1\n\nIf I ____ more time, I would travel.\n\nA) have\nB) had\nC) will have\nD) having\n\n💭 Javob 👇",
+      "answer": "✅ Javob: B) had\n\n📖 Second Conditional: If + Past Simple, ... would + V1.\n\n#test #grammar #B1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p17", "type": "vocabulary", "level": "B2", "emoji": "🔤",
+      "title": "IELTS Graph Words",
+      "text": "🔤 IELTS VOCABULARY · B2\n\n📌 increase /ɪnˈkriːs/ — oshmoq\n📌 decline /dɪˈklaɪn/ — pasayish\n📌 significant /sɪɡˈnɪfɪkənt/ — sezilarli\n\n💬 There was a significant increase in sales in 2025.\n(2025-yilda sotuvlar sezilarli oshdi.)\n\n#vocabulary #B2 #IELTS #EnglishFreeCourse"
+    },
+    {
+      "id": "p18", "type": "fact", "level": "A2", "emoji": "🔠",
+      "title": "Most used letter",
+      "text": "🔠 DID YOU KNOW?\n\nThe most common letter in English is \"E\", and the most common word is \"the\".\n\n🇺🇿 Ingliz tilida eng ko'p ishlatiladigan harf — \"E\", eng ko'p so'z esa — \"the\". Demak \"the\" ni to'g'ri ishlatishni o'rganish juda muhim!\n\n#fact #A2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p19", "type": "tip", "level": "B2", "emoji": "💡",
+      "title": "IELTS Writing structure",
+      "text": "💡 IELTS TIP — Writing Task 2\n\n4 paragraf tuzilishi:\n1️⃣ Introduction (savolni qayta yozing + fikr)\n2️⃣ Body 1 (1-fikr + misol)\n3️⃣ Body 2 (2-fikr + misol)\n4️⃣ Conclusion (xulosa)\n\n⏰ 40 daqiqa, 250+ so'z.\n🔗 Firstly, Moreover, However, In conclusion.\n\n#tip #IELTS #writing #EnglishFreeCourse"
+    },
+    {
+      "id": "p20", "type": "idiom", "level": "B2", "emoji": "🗣",
+      "title": "Idiom: Break the ice",
+      "text": "🗣 IDIOM OF THE DAY\n\n🧊 \"break the ice\" — suhbatni boshlash, muloqotni yengillashtirish\n\n💬 He told a joke to break the ice at the meeting.\n(U yig'ilishda muhitni yumshatish uchun hazil aytdi.)\n\n#idiom #B2 #speaking #EnglishFreeCourse"
+    },
+    {
+      "id": "p21", "type": "vocabulary", "level": "A1", "emoji": "🔤",
+      "title": "Colors",
+      "text": "🔤 COLORS · A1\n\n📌 red /red/ — qizil\n📌 blue /bluː/ — ko'k\n📌 green /ɡriːn/ — yashil\n📌 black /blæk/ — qora\n\n💬 The sky is blue and the grass is green.\n(Osmon ko'k, o't yashil.)\n\n#vocabulary #A1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p22", "type": "topic", "level": "A2", "emoji": "🌍",
+      "title": "Topic: My City",
+      "text": "🌍 TOPIC · A2 — My City\n\n• street — ko'cha\n• building — bino\n• market — bozor\n• park — bog'\n\n💬 I live in Qoqon. There is a big market and a beautiful park in my city.\n\n✍️ \"In my city, there is/are ___.\"\n\n#topic #A2 #speaking #EnglishFreeCourse"
+    },
+    {
+      "id": "p23", "type": "test", "level": "A2", "emoji": "📝",
+      "title": "Preposition Test",
+      "text": "📝 PREPOSITION TEST · A2\n\nI was born ____ 2005.\n\nA) on\nB) at\nC) in\nD) by\n\n💭 Javob 👇",
+      "answer": "✅ Javob: C) in\n\n📖 Yillar: in (in 2005). Kunlar: on (on Monday). Soatlar: at (at 5).\n\n#test #grammar #A2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p24", "type": "fact", "level": "B2", "emoji": "🌏",
+      "title": "English everywhere",
+      "text": "🌏 DID YOU KNOW?\n\nAround 1.5 billion people are learning English right now — more than any other language in history!\n\n🇺🇿 Hozir dunyoda ~1.5 milliard odam ingliz tilini o'rganmoqda — tarixda hech bir til buncha o'rganilmagan. Siz ham shu katta jamoadasiz! 💪\n\n#fact #motivation #EnglishFreeCourse"
+    },
+    {
+      "id": "p25", "type": "grammar", "level": "B1", "emoji": "📚",
+      "title": "Present Perfect",
+      "text": "📚 GRAMMAR · B1 — Present Perfect\n\nhave/has + V3 → o'tmish + hozir bilan bog'liq natija\n\n💬 I have finished my work. She has lived here for 5 years.\n\n🔑 for = muddat (for 5 years), since = boshlanish (since 2020)\n\n#grammar #B1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p26", "type": "vocabulary", "level": "C1", "emoji": "🔤",
+      "title": "Advanced Words",
+      "text": "🔤 ADVANCED · C1\n\n📌 inevitable /ɪnˈevɪtəbl/ — muqarrar\n📌 profound /prəˈfaʊnd/ — chuqur\n📌 mitigate /ˈmɪtɪɡeɪt/ — yumshatmoq\n\n💬 Technology has a profound impact on society.\n(Texnologiya jamiyatga chuqur ta'sir qiladi.)\n\n#vocabulary #C1 #IELTS #EnglishFreeCourse"
+    },
+    {
+      "id": "p27", "type": "topic", "level": "C1", "emoji": "🌍",
+      "title": "Topic: Environment",
+      "text": "🌍 TOPIC · C1 — Environment\n\n• climate change — iqlim o'zgarishi\n• pollution — ifloslanish\n• sustainable — barqaror\n• renewable energy — qayta tiklanuvchi energiya\n\n💬 Governments should invest in renewable energy to mitigate climate change.\n\n✍️ IELTS Writing 7.0+ mavzusi.\n\n#topic #C1 #IELTS #EnglishFreeCourse"
+    },
+    {
+      "id": "p28", "type": "test", "level": "B2", "emoji": "📝",
+      "title": "Synonym Test",
+      "text": "📝 IELTS READING · B2\n\n\"The results were remarkable.\"\nremarkable = ?\n\nA) ordinary\nB) impressive\nC) boring\nD) confusing\n\n💭 Javob 👇",
+      "answer": "✅ Javob: B) impressive\n\n📖 remarkable = ajoyib, e'tiborga loyiq. Reading'da sinonimlarni bilish muhim.\n\n#test #IELTS #reading #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p29", "type": "tip", "level": "B1", "emoji": "💡",
+      "title": "Listening: 15 vs 50",
+      "text": "💡 IELTS TIP — Listening\n\n🎧 \"fifteen\" (15) va \"fifty\" (50) — talaffuzi yaqin!\n• fifTEEN → urg'u oxirida\n• FIFty → urg'u boshida\n\nJavob yozganda imloga (spelling) ham diqqat qiling — noto'g'ri imlo = 0 ball.\n\n#tip #IELTS #listening #EnglishFreeCourse"
+    },
+    {
+      "id": "p30", "type": "idiom", "level": "B2", "emoji": "🗣",
+      "title": "Idiom: Hit the books",
+      "text": "🗣 IDIOM OF THE DAY\n\n📚 \"hit the books\" — qattiq o'qishga kirishmoq\n\n💬 I have an exam tomorrow, so I need to hit the books tonight.\n(Ertaga imtihonim bor, bugun kechqurun jiddiy o'qishim kerak.)\n\n#idiom #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p31", "type": "vocabulary", "level": "A2", "emoji": "🔤",
+      "title": "Feelings",
+      "text": "🔤 FEELINGS · A2\n\n📌 excited /ɪkˈsaɪtɪd/ — hayajonlangan\n📌 tired /ˈtaɪəd/ — charchagan\n📌 bored /bɔːd/ — zerikkan\n\n💬 I am excited about my English progress!\n(Inglizchamdagi o'sishdan hayajondaman!)\n\n#vocabulary #A2 #EnglishFreeCourse"
+    },
+    {
+      "id": "p32", "type": "fact", "level": "B1", "emoji": "⏳",
+      "title": "Newest words",
+      "text": "⏳ DID YOU KNOW?\n\nNew English words are added to the dictionary every year — like \"selfie\", \"emoji\" and \"vlog\".\n\n🇺🇿 Ingliz tili \"tirik\" til — har yili lug'atga yangi so'zlar qo'shiladi (selfie, emoji, vlog). Til doim o'sib boradi!\n\n#fact #B1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p33", "type": "grammar", "level": "B2", "emoji": "📚",
+      "title": "Passive Voice",
+      "text": "📚 GRAMMAR · B2 — Passive Voice\n\nbe + V3 → ish-harakat kimga qilingani muhim bo'lsa\n\n💬 English is spoken in many countries.\nThe bridge was built in 1990.\n\n📝 IELTS Writing'da rasmiy uslub uchun foydali.\n\n#grammar #B2 #IELTS #EnglishFreeCourse"
+    },
+    {
+      "id": "p34", "type": "topic", "level": "B1", "emoji": "🌍",
+      "title": "Topic: Education",
+      "text": "🌍 TOPIC · B1 — Education\n\n• higher education — oliy ta'lim\n• scholarship — stipendiya/grant\n• entrance exam — kirish imtihoni\n• skill — ko'nikma\n\n💬 Many young people in Uzbekistan learn English to win scholarships and study abroad.\n\n✍️ IELTS Speaking Part 1: \"Tell me about your studies.\"\n\n#topic #B1 #IELTS #EnglishFreeCourse"
+    },
+    {
+      "id": "p35", "type": "test", "level": "C1", "emoji": "📝",
+      "title": "Advanced Test",
+      "text": "📝 ADVANCED TEST · C1\n\nThe policy had a ____ effect on the economy.\n\nA) detrimental\nB) delicious\nC) punctual\nD) transparent\n\n💭 Javob 👇",
+      "answer": "✅ Javob: A) detrimental\n\n📖 detrimental = zararli. delicious=mazali, punctual=aniq vaqtli, transparent=shaffof.\n\n#test #IELTS #C1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p36", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "title": "Phrasal Verbs",
+      "text": "🔤 PHRASAL VERBS · B1\n\n📌 give up — voz kechmoq\n📌 find out — bilib olmoq\n📌 look for — qidirmoq\n\n💬 Never give up — keep practicing and you will find out you can do it!\n(Hech qachon voz kechmang!)\n\n#vocabulary #B1 #EnglishFreeCourse"
+    },
+    {
+      "id": "p37", "type": "tip", "level": "B2", "emoji": "💡",
+      "title": "Speaking: don't freeze",
+      "text": "💡 IELTS TIP — Speaking\n\n🗣 Part 2'da 2 daqiqa gapirish kerak. Sukut qilmaslik uchun:\n• Vaqt yutish: \"Well, that's an interesting question...\"\n• Misol: \"For example, last year...\"\n• His: \"I really enjoyed it because...\"\n\nRavonlik (fluency) ham baholanadi — xatodan qo'rqmang!\n\n#tip #IELTS #speaking #EnglishFreeCourse"
+    },
+    {
+      "id": "p38", "type": "fact", "level": "B2", "emoji": "🧠",
+      "title": "Bilingual brain",
+      "text": "🧠 DID YOU KNOW?\n\nLearning a second language makes your brain stronger and can delay memory problems by years!\n\n🇺🇿 Ikkinchi til o'rganish miyani kuchaytiradi va xotira muammolarini yillarga kechiktiradi. Ingliz tili — miya uchun sport! 💪\n\n#fact #motivation #EnglishFreeCourse"
+    },
+    {
+      "id": "p39", "type": "idiom", "level": "C1", "emoji": "🗣",
+      "title": "Idiom: Once in a blue moon",
+      "text": "🗣 IDIOM OF THE DAY\n\n🌕 \"once in a blue moon\" — juda kam, deyarli hech qachon\n\n💬 I eat fast food once in a blue moon.\n(Men tez tayyor ovqatni juda kam yeyman.)\n\n🇺🇿 IELTS Speaking'da chastota (frequency) so'rasa, bu idioma ajoyib javob.\n\n#idiom #C1 #speaking #EnglishFreeCourse"
+    },
+    {
+      "id": "p40", "type": "topic", "level": "C1", "emoji": "🌍",
+      "title": "Topic: Globalization",
+      "text": "🌍 TOPIC · C1 — Globalization\n\nILG'OR iboralar:\n• double-edged sword — ham foyda, ham zarar\n• cultural exchange — madaniy almashinuv\n• to bridge the gap — farqni kamaytirmoq\n\n💬 Globalization is a double-edged sword: it boosts trade but can threaten local cultures.\n\n✍️ IELTS Writing 7.0+ uchun.\n\n#topic #C1 #IELTS #EnglishFreeCourse"
+    }
+  ]
+}
