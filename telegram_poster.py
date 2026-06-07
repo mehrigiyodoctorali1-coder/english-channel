@@ -40,6 +40,10 @@ try:
 except Exception:
     HAS_IMAGE = False
 
+# Rasm yuborish yoqilganmi? Standart: yo'q (faqat matn).
+# Keyin rasm qo'shilsa, USE_IMAGES=1 qilinadi.
+USE_IMAGES = os.environ.get("USE_IMAGES", "0") == "1"
+
 
 def load_json(path, default=None):
     if not os.path.exists(path):
@@ -152,7 +156,7 @@ def pick_post(content, state, slot=None):
 def deliver(token, chat_id, post):
     """Rasm bilan (imkon bo'lsa) yoki matn bilan yuboradi."""
     text = post["text"]
-    if HAS_IMAGE:
+    if USE_IMAGES and HAS_IMAGE:
         try:
             card = image_designer.make_card(post)
             res = send_photo(token, chat_id, card, text)
