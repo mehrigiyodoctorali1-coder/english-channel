@@ -2,11 +2,11 @@ name: English free course poster
 
 on:
   schedule:
-    - cron: '0 4 * * *'
-    - cron: '0 6 * * *'
-    - cron: '0 8 * * *'
-    - cron: '0 10 * * *'
-    - cron: '0 12 * * *'
+    - cron: '7 4 * * *'
+    - cron: '7 6 * * *'
+    - cron: '7 8 * * *'
+    - cron: '7 10 * * *'
+    - cron: '7 12 * * *'
   workflow_dispatch: {}
 
 permissions:
