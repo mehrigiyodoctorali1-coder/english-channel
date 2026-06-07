@@ -1,0 +1,42 @@
+name: English free course poster
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+    - cron: '0 6 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 12 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-color-emoji
+          pip install pillow
+      - name: Post
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: python telegram_poster.py
+      - name: Save state
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add posted_log.json
+          git commit -m "update posted_log [skip ci]" || echo "no change"
+          git pull --rebase --autostash || true
+          git push || echo "push failed"
