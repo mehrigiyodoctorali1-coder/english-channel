@@ -26,13 +26,17 @@ THEMES = {
     "fact":       ((124, 58, 237), (76, 29, 149)),
     "tip":        ((217, 119, 6), (180, 83, 9)),
     "idiom":      ((219, 39, 119), (131, 24, 67)),
+    "science":    ((6, 182, 212), (8, 47, 94)),
+    "history":    ((180, 83, 9), (87, 33, 10)),
+    "story":      ((99, 102, 241), (49, 46, 129)),
     "default":    ((30, 41, 59), (15, 23, 42)),
 }
 
 TYPE_LABEL = {
     "vocabulary": "VOCABULARY", "test": "QUIZ", "grammar": "GRAMMAR",
     "topic": "TOPIC", "fact": "DID YOU KNOW?", "tip": "IELTS TIP",
-    "idiom": "IDIOM",
+    "idiom": "IDIOM", "science": "SCIENCE FACT", "history": "HISTORY",
+    "story": "SHORT STORY",
 }
 
 # Shrift yo'llari (Windows -> sandbox fallback)

@@ -198,28 +198,41 @@ def main():
         sys.exit(1)
 
     state = load_json(STATE_FILE, default={"posted": []})
-    post = pick_post(content, state, slot=args.slot)
-    log(f"Post: {post['id']} ({post.get('type')} - {post.get('level')}) rasm={'ha' if HAS_IMAGE else 'yoq'}")
+    n = int(os.environ.get("POSTS_PER_RUN", cfg.get("posts_per_run", 3)))
+    gap = cfg.get("post_gap_seconds", 20)            # postlar orasidagi pauza
+    answer_delay = cfg.get("answer_delay_seconds", 90)  # test javobigacha
 
+    # ── Dry-run: n ta postni ko'rsatish ──
     if args.dry_run:
-        print("\n----- POST -----\n" + post["text"])
-        if post.get("answer"):
-            print("\n----- JAVOB (kechikib) -----\n" + post["answer"])
-        print("----------------\n")
+        for i in range(n):
+            post = pick_post(content, state, slot=args.slot)
+            state.setdefault("posted", []).append(post["id"])
+            print(f"\n===== POST {i+1}/{n} ({post['id']} · {post.get('type')}) =====\n" + post["text"])
+            if post.get("answer"):
+                print("\n--- JAVOB ---\n" + post["answer"])
         return
 
-    if not deliver(token, chat_id, post):
-        sys.exit(1)
+    # ── Haqiqiy: n ta post ketma-ket ──
+    sent = 0
+    for i in range(n):
+        post = pick_post(content, state, slot=args.slot)
+        log(f"[{i+1}/{n}] {post['id']} ({post.get('type')} - {post.get('level')}) rasm={'ha' if HAS_IMAGE else 'yoq'}")
+        if not deliver(token, chat_id, post):
+            log("Yuborilmadi — to'xtatildi.")
+            break
+        state.setdefault("posted", []).append(post["id"])
+        state["last_run"] = datetime.now().isoformat()
+        save_json(STATE_FILE, state)
+        sent += 1
+        if post.get("answer"):
+            log(f"Javob {answer_delay}s dan keyin...")
+            time.sleep(answer_delay)
+            r = send_message(token, chat_id, post["answer"])
+            log("Javob yuborildi." if r.get("ok") else f"Javob xato: {r.get('description')}")
+        if i < n - 1:
+            time.sleep(gap)
 
-    # Test javobi — kechikib, matn ko'rinishida
-    if post.get("answer"):
-        delay = cfg.get("answer_delay_seconds", 600)
-        log(f"Javob {delay} soniyadan keyin...")
-        time.sleep(delay)
-        r = send_message(token, chat_id, post["answer"])
-        log("Javob yuborildi." if r.get("ok") else f"Javob xato: {r.get('description')}")
-
-    # Kunlik yangilik (agar tayyorlangan bo'lsa) — bir marta
+    # ── Kunlik yangilik — run oxirida bir marta ──
     if os.path.exists(NEWS_FILE):
         with open(NEWS_FILE, "r", encoding="utf-8") as f:
             news = f.read().strip()
@@ -229,10 +242,7 @@ def main():
                 log("Kunlik yangilik yuborildi.")
                 os.remove(NEWS_FILE)
 
-    state.setdefault("posted", []).append(post["id"])
-    state["last_run"] = datetime.now().isoformat()
-    save_json(STATE_FILE, state)
-    log("Holat saqlandi. Tugadi.")
+    log(f"Tugadi. {sent} ta post yuborildi.")
 
 
 if __name__ == "__main__":
