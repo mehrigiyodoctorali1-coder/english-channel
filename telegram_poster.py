@@ -156,16 +156,20 @@ def pick_post(content, state, slot=None):
 def deliver(token, chat_id, post):
     """Rasm bilan (imkon bo'lsa) yoki matn bilan yuboradi."""
     text = post["text"]
-    if USE_IMAGES and HAS_IMAGE:
-        try:
-            card = image_designer.make_card(post)
-            res = send_photo(token, chat_id, card, text)
-            if res.get("ok"):
-                log("Rasm + izoh yuborildi.")
-                return True
-            log(f"sendPhoto xato: {res.get('description')} — matnga o'tilyapti.")
-        except Exception as e:
-            log(f"Rasm yaratilmadi ({e}) — matnga o'tilyapti.")
+    # Oldindan tayyorlangan rasm bo'lsa — sendPhoto, aks holda matn.
+    # images/<id>.png yoki <id>.png (repo root) — ikkalasi ham qo'llab-quvvatlanadi.
+    img = None
+    for cand in (os.path.join(BASE_DIR, "images", post["id"] + ".png"),
+                 os.path.join(BASE_DIR, post["id"] + ".png")):
+        if os.path.exists(cand):
+            img = cand
+            break
+    if img:
+        res = send_photo(token, chat_id, img, text)
+        if res.get("ok"):
+            log("Rasm + izoh yuborildi.")
+            return True
+        log(f"sendPhoto xato: {res.get('description')} — matnga o'tilyapti.")
     res = send_message(token, chat_id, text)
     if res.get("ok"):
         log("Matn yuborildi.")
