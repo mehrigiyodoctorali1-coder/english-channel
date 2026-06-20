@@ -2,17 +2,15 @@ name: English free course poster
 
 on:
   schedule:
-    # Vaqtlar UTC da! Toshkent (UTC+5). B2 kursi: kuniga 4 post, har 3 soatda.
-    # Toshkent 09:00,12:00,15:00,18:00 -> UTC 04:00,07:00,10:00,13:00
-    # :07 daqiqa - soat boshidagi yuklamadan qochish uchun (ishonchliroq)
+    # UTC! Toshkent (UTC+5) 09,12,15,18 -> UTC 04,07,10,13
     - cron: '7 4 * * *'
     - cron: '7 7 * * *'
     - cron: '7 10 * * *'
     - cron: '7 13 * * *'
-  workflow_dispatch: {}   # qo'lda "Run workflow" tugmasi uchun
+  workflow_dispatch: {}
 
 permissions:
-  contents: write   # posted_log.json ni qaytarib saqlash uchun
+  contents: write
 
 jobs:
   post:
@@ -21,7 +19,7 @@ jobs:
       - name: Repozitoriyni olish
         uses: actions/checkout@v4
 
-      - name: Python o'rnatish
+      - name: Python ornatish
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -36,7 +34,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          POSTS_PER_RUN: "1"   # har run 1 post -> kuniga 4 post (09,12,15,18)
+          POSTS_PER_RUN: "1"
         run: python telegram_poster.py
 
       - name: Holatni saqlash (posted_log.json)
@@ -44,4 +42,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add posted_log.json
-          git commit -m "update posted_log 
+          git commit -m "update posted_log [skip ci]" || echo "ozgarish yoq"
+          git pull --rebase --autostash || true
+          git push || echo "push otmadi"
