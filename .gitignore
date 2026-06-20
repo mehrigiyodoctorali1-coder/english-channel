@@ -1,0 +1,11 @@
+# Maxfiy token — GitHub'ga YUKLANMAYDI (Secret sifatida boradi)
+config.json
+
+# Zaxira nusxalar va vaqtinchalik fayllar
+content_bank_backup_*.json
+posted_log_backup_*.json
+images/_check_*.png
+__pycache__/
+*.pyc
+out.txt
+err.txt

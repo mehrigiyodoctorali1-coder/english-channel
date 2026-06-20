@@ -1,533 +1,1811 @@
 {
   "channel": "English free course (@English_news_free)",
-  "note": "Teglarsiz. Ketma-ket rejim, har run 3 post (variety uchun turlar aralash). Faqat tekshirilgan ilmiy/tarixiy faktlar.",
+  "note": "B2 IELTS kursi — 30 kun x 4 post (09:00,12:00,15:00,18:00). Ketma-ket. Eski postlar archived_posts ichida saqlangan.",
+  "course_level": "B2",
   "posts": [
     {
-      "id": "n001", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "c01a",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🗣",
+      "title": "Speaking Part 1: tabiiy javob bering",
+      "text": "🗣 Speaking Part 1: tabiiy javob bering\n\nIELTS Speaking 4 mezon bo'yicha baholanadi (har biri 25%): Fluency & Coherence, Lexical Resource, Grammatical Range, Pronunciation.\n\nPart 1'da imtihonchi uy, ish, hobbi haqida oddiy savol beradi. Asosiy maslahat: hech qachon bir so'z bilan javob bermang — javobni sabab yoki misol bilan kengaytiring (extend).\n\n❓ \"Do you like cooking?\"\n✅ \"Yes, I really enjoy it, especially at weekends, because it helps me relax.\"\n\n📚 Manba: British Council / IELTS.org — Speaking Band Descriptors\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c01b",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Useful phrases: javobni kengaytirish",
+      "text": "💬 Useful phrases: javobni kengaytirish\n\n\"PEE\" usuli — Point (fikr) + Explain (sabab) + Example (misol):\n• To be honest, ... — Rostini aytsam, ...\n• ... , especially when ... — ayniqsa ... bo'lganda\n• For instance, ... — Masalan, ...\n• It depends on ... — ... ga bog'liq\n\nBu iboralar fikrni tabiiy bog'laydi (cohesion).\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c01c",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Worked example: \"Where are you from?\"",
+      "text": "🎯 Worked example: \"Where are you from?\"\n\n❌ Zaif: \"From Kokand.\"\n✅ Kuchli (B2): \"I'm from Kokand, a historic city in the Fergana Valley. It's famous for its old bazaars, and I've lived there my whole life, so I know it really well.\"\n\nE'tibor bering: joy + tavsif + shaxsiy bog'lanish. 2–3 jumla yetarli.\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c01d",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nBugun 3 savolga ovozli javob bering (telefon diktofoniga yozing), har biri kamida 2 jumla:\n1. Do you work or study?\n2. What do you do in your free time?\n3. Do you prefer mornings or evenings?\n\n💡 Useful word: fluency /ˈfluː.ən.si/ — ravonlik (gapni to'xtamasdan ayta olish)\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c02a",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "✍",
+      "title": "Task 2: 4 paragrafli struktura",
+      "text": "✍️ Task 2: 4 paragrafli struktura\n\nEng ishonchli tuzilma — 4 paragraf:\n1) Introduction — savolni o'z so'zingiz bilan qayta yozing (paraphrase) + pozitsiyangiz\n2) Body 1 — birinchi asosiy fikr + tushuntirish + misol\n3) Body 2 — ikkinchi asosiy fikr + tushuntirish + misol\n4) Conclusion — fikrlarni qisqa xulosa qiling\n\n2 ta yaxshi ishlangan paragraf 3 ta yarim paragrafdan yuqori baho oladi.\n\n📚 Manba: British Council IELTS preparation\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c02b",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Introduction uchun foydali iboralar",
+      "text": "💬 Introduction uchun foydali iboralar\n\nSavolni qayta yozish (paraphrase) — bir xil so'zlarni takrorlamang:\n• It is often argued that ... — Ko'pincha aytiladiki, ...\n• In my opinion, ... — Mening fikrimcha, ...\n• This essay will discuss ... — (BUNDAN QOCHING, kuch sarflamaydi)\n\nEslatma: \"In today's modern world\" kabi yodlangan iboralar ball qo'shmaydi.\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c02c",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Misol: savolni paraphrase qilish",
+      "text": "🎯 Misol: savolni paraphrase qilish\n\n❓ Savol: \"Some people think students should study abroad. Do you agree?\"\n✅ Intro: \"Many believe that completing part of one's education in another country brings real benefits. I largely agree, and this essay will explain why.\"\n\nE'tibor: \"study abroad\" → \"completing education in another country\".\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c02d",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nQuyidagi mavzuda faqat INTRODUCTION (2 jumla) yozing:\n\"Many people prefer to work from home. Is this a positive or negative development?\"\nSavolni o'z so'zingiz bilan qayta yozing + pozitsiyangizni bering.\n\n💡 Useful word: paraphrase /ˈpær.ə.freɪz/ — boshqacha so'z bilan qayta ifodalash\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c03a",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📖",
+      "title": "Skimming va Scanning — farqi",
+      "text": "📖 Skimming va Scanning — farqi\n\nIELTS Reading'da 60 daqiqada 40 savol. Har so'zni o'qishga vaqt yo'q. 2 ta tezkor texnika:\n\n• Skimming — matnni tez ko'zdan kechirib, UMUMIY mazmunni tushunish (sarlavha, birinchi jumlalar).\n• Scanning — aniq ma'lumotni (ism, sana, raqam, kalit so'z) TEZ topish.\n\nBu ikkisini birlashtirsangiz, vaqtni tejab, aniqlikni saqlaysiz.\n\n📚 Manba: British Council — takeielts.britishcouncil.org (Skimming and Scanning)\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c03b",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Qachon qaysi texnika?",
+      "text": "💬 Qachon qaysi texnika?\n\n• Avval butun matnni 2 daqiqa SKIM qiling — har paragrafning birinchi jumlasi (topic sentence) asosiy fikrni beradi.\n• Savoldagi kalit so'zlarni belgilang (underline keywords).\n• Keyin shu kalit so'zni matndan SCAN qilib toping.\n• Topgan joyingizni diqqat bilan o'qib, javobni tasdiqlang.\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c03c",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Maslahat: kalit so'z turlari",
+      "text": "🎯 Maslahat: kalit so'z turlari\n\nScanning'da bularni izlang — ular matnda o'zgarmaydi:\n• Names — ismlar (katta harf)\n• Dates / numbers — sana, raqam\n• Places — joy nomlari\nLekin oddiy so'zlar matnda SINONIM bilan berilishi mumkin: \"car\" → \"vehicle\". Shuning uchun ma'noga e'tibor bering, faqat so'zga emas.\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c03d",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nIstalgan inglizcha yangilik maqolasini oching:\n1. 2 daqiqada SKIM qiling — nima haqida ekanini 1 jumlada yozing.\n2. Maqoladan 3 ta raqam yoki ismni SCAN qilib toping (vaqtni belgilang).\n\n💡 Useful word: skim /skɪm/ — tez ko'zdan kechirish, yuzaki o'qish\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c04a",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎧",
+      "title": "Map labelling: xaritani belgilash",
+      "text": "🎧 Map labelling: xaritani belgilash\n\nListening'da xarita yoki plan beriladi va siz eshitgan joylarni belgilab borasiz. Asosiy qoida: audio odatda CHAPDAN O'NGGA yoki SOAT MILI bo'yicha harakatlanadi.\n\nMaslahat: audio boshlanishidan oldin xaritani ko'rib chiqing — kirish (entrance), kompas (N/S/E/W) va allaqachon belgilangan joylarni toping.\n\n📚 Manba: IELTS.org — \"10 tips for map/plan questions\"\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c04b",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Yo'nalish iboralari (directions)",
+      "text": "💬 Yo'nalish iboralari (directions)\n\nBularni quloq bilan taning:\n• opposite — qarshisida\n• next to / beside — yonida\n• at the end of — oxirida\n• turn left / right — chapga / o'ngga buriling\n• in the north-east corner — shimoli-sharqiy burchakda\n• go past — ... yonidan o'ting\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c04c",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Strategiya: \"sayohat\" usuli",
+      "text": "🎯 Strategiya: \"sayohat\" usuli\n\nXaritani SAYOHAT deb tasavvur qiling — go'yo o'sha joyda yurib borayotgandek. So'zlovchini \"kuzatib\" boring.\n\nAgar bir javobni o'tkazib yuborsangiz — TO'XTAB QOLMANG. Keyingisiga o'ting, audio sizni kutmaydi. Oxirida aqlli taxmin qilishingiz mumkin (noto'g'ri javob uchun ball kamaymaydi).\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c04d",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nYouTube'dan \"IELTS Listening map practice\" qidiring va 1 ta mashqni bajaring. Yangi yo'nalish iboralarini daftaringizga yozing.\n\n💡 Useful word: opposite /ˈɒp.ə.zɪt/ — qarshisida, ro'parasida\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c05a",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📚",
+      "title": "Education: B2 so'zlar to'plami",
+      "text": "📚 Education: B2 so'zlar to'plami\n\nIELTS'da ta'lim mavzusi tez-tez chiqadi. B2 darajadagi foydali so'zlar:\n• tuition fees /tjuˈɪʃ.ən fiːz/ — o'qish to'lovi\n• scholarship /ˈskɒl.ə.ʃɪp/ — stipendiya\n• curriculum /kəˈrɪk.jə.ləm/ — o'quv dasturi\n• undergraduate /ˌʌn.dəˈɡrædʒ.u.ət/ — bakalavr talabasi\n• lifelong learning — umrbod o'rganish\n\n📚 Manba: Cambridge English Vocabulary in Use (Upper-Intermediate)\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c05b",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "💼",
+      "title": "Work: B2 so'zlar to'plami",
+      "text": "💼 Work: B2 so'zlar to'plami\n\n• salary /ˈsæl.ər.i/ — oylik maosh\n• promotion /prəˈməʊ.ʃən/ — lavozim ko'tarilishi\n• colleague /ˈkɒl.iːɡ/ — hamkasb\n• deadline /ˈded.laɪn/ — muddat\n• work-life balance — ish va hayot muvozanati\n\nMaslahat: so'zni gap ichida yodlang, alohida emas.\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c05c",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Collocations (so'z birikmalari)",
+      "text": "🎯 Collocations (so'z birikmalari)\n\nB2'da alohida so'z emas, BIRIKMA muhim:\n• to apply for a job — ishga ariza topshirmoq\n• to meet a deadline — muddatga ulgurmoq\n• to gain experience — tajriba orttirmoq\n• to earn a degree — diplom olmoq\nBu birikmalar tabiiy va yuqori ball oladi.\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c05d",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nBugungi 10 so'zdan 5 tasini ishlatib, o'zingiz haqingizda 5 jumla yozing (ta'lim va ish).\nMisol: \"I hope to earn a degree and gain experience abroad.\"\n\n💡 Useful word: collocation /ˌkɒl.əˈkeɪ.ʃən/ — birga ishlatiladigan so'zlar birikmasi\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c06a",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🔧",
+      "title": "Present Perfect vs Past Simple",
+      "text": "🔧 Present Perfect vs Past Simple\n\nEng ko'p adashtiriladigan grammatika:\n• Past Simple — TUGAGAN vaqt, aniq payt: yesterday, in 2020, last week.\n   \"I visited London in 2019.\"\n• Present Perfect — natijasi HOZIR muhim yoki vaqt noaniq: ever, never, already, yet, since, for.\n   \"I have visited London.\" (qachonligi muhim emas)\n\n📚 Manba: British Council — learnenglish.britishcouncil.org (Grammar)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c06b",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Signal so'zlar (belgi beruvchi so'zlar)",
+      "text": "💬 Signal so'zlar (belgi beruvchi so'zlar)\n\nPast Simple bilan: yesterday, ago, last year, in 2020, when I was young.\nPresent Perfect bilan: ever, never, just, already, yet, so far, recently, since 2020, for 5 years.\n\n\"since\" = boshlanish nuqtasi (since Monday).\n\"for\" = davomiylik (for 3 days).\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c06c",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Misollarni solishtiring",
+      "text": "🎯 Misollarni solishtiring\n\n❌ \"I have seen him yesterday.\" (yesterday — tugagan vaqt!)\n✅ \"I saw him yesterday.\"\n✅ \"I have already seen that film.\" (vaqt noaniq, natija muhim)\n✅ \"She has lived here for ten years.\" (hali ham yashaydi)\n✅ \"She lived there for ten years.\" (endi yashamaydi)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c06d",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nTo'g'ri shaklni tanlang:\n1. I ___ (finish) my homework. Can we go now?\n2. We ___ (go) to Samarkand last summer.\n3. He ___ (not / eat) sushi before.\n(Javob: 1 have finished, 2 went, 3 has not eaten)\n\n💡 Useful word: experience /ɪkˈspɪə.ri.əns/ — tajriba (Have you ever...? bilan ishlating)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c07a",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🔁",
+      "title": "Hafta 1: nimalarni o'rgandik?",
+      "text": "🔁 Hafta 1: nimalarni o'rgandik?\n\n✅ Speaking — javobni kengaytirish (PEE: Point + Explain + Example)\n✅ Writing — Task 2 ning 4 paragrafli strukturasi\n✅ Reading — Skimming va Scanning\n✅ Listening — Map labelling (yo'nalish iboralari)\n✅ Vocabulary — Education & Work so'zlari\n✅ Grammar — Present Perfect vs Past Simple\n\nBugun takrorlaymiz va sinab ko'ramiz!\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c07b",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-test: Grammar",
+      "text": "🎯 Mini-test: Grammar\n\nTo'g'ri shaklni tanlang:\n1. She ___ (live) in Tashkent since 2018.\n2. We ___ (watch) a great film last night.\n3. ___ you ever ___ (try) plov?\n\n(Javoblarni 18:00 postida tekshiring)\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c07c",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-test: Vocabulary",
+      "text": "🎯 Mini-test: Vocabulary\n\nTo'g'ri so'zni qo'ying (apply / deadline / scholarship / colleague):\n1. I missed the ___ for the report.\n2. She won a ___ to study in the UK.\n3. I want to ___ for that job.\n4. My ___ helped me finish the project.\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c07d",
+      "type": "review",
+      "level": "B2",
+      "emoji": "✅",
+      "title": "Javoblar + Useful word",
+      "text": "✅ Javoblar + Useful word\n\nGrammar: 1 has lived, 2 watched, 3 Have...tried\nVocabulary: 1 deadline, 2 scholarship, 3 apply, 4 colleague\n\nNechta to'g'ri? 🎉 Izohda yozing!\nSpeaking mashqi: \"What did you do last weekend?\" — 4 jumlada ovozli javob bering.\n\n💡 Useful word: revise /rɪˈvaɪz/ — takrorlamoq, qayta ko'rib chiqmoq\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c08a",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🗣",
+      "title": "Part 2: Cue card (1-2 daqiqa gapirish)",
+      "text": "🗣 Part 2: Cue card (1-2 daqiqa gapirish)\n\nSizga karta (cue card) beriladi: mavzu + 3-4 yo'naltiruvchi savol. 1 daqiqa tayyorgarlik (yozish mumkin), keyin 1-2 daqiqa to'xtamasdan gapirasiz.\n\nMaslahat: tayyorgarlik daqiqasida har bandga 2-3 ta KALIT SO'Z yozing — to'liq jumla emas.\n\n📚 Manba: IELTS.org — Speaking Part 2 format\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c08b",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Vaqtni cho'zish iboralari",
+      "text": "💬 Vaqtni cho'zish iboralari\n\nGapni davom ettirish uchun:\n• What I'd like to talk about is ... — Men gapirmoqchi bo'lgan narsa ...\n• The reason I chose this is ... — Buni tanlash sababim ...\n• It reminds me of ... — Bu menga ... ni eslatadi\n• Looking back, ... — Orqaga nazar tashlasam, ...\n\nBu iboralar fikrlash uchun vaqt beradi.\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c08c",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Misol cue card",
+      "text": "🎯 Misol cue card\n\n\"Describe a person who inspired you.\"\nYou should say: who they are / how you know them / what they did / why they inspired you.\n\nStruktura: 1) Kim → 2) Qachondan tanish → 3) Nima qildi → 4) Nega ilhomlantirdi (eng ko'p shu yerga vaqt).\nHikoya tarzida gapiring — bu tabiiy ravonlik beradi.\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c08d",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nCue card: \"Describe a place you like to visit.\"\n1 daqiqa tayyorlaning (kalit so'zlar), keyin 1.5 daqiqa ovozli gapiring va o'zingizni eshiting.\n\n💡 Useful word: inspire /ɪnˈspaɪər/ — ilhomlantirmoq, ruhlantirmoq\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c09a",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "✍",
+      "title": "Task 1: grafik/jadval tasvirlash",
+      "text": "✍️ Task 1: grafik/jadval tasvirlash\n\nAcademic Task 1'da grafik, jadval yoki diagramma beriladi (kamida 150 so'z). Sizning vazifangiz — FIKR bildirmasdan, asosiy ma'lumotni tasvirlash.\n\nStruktura:\n1) Introduction — grafik nimani ko'rsatishini paraphrase qiling\n2) Overview — eng muhim 2-3 tendensiya (umumiy manzara)\n3-4) Details — raqamlar bilan tafsilot\n\n📚 Manba: British Council IELTS — Academic Writing Task 1\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c09b",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Tendensiya (trend) iboralari",
+      "text": "💬 Tendensiya (trend) iboralari\n\nO'sish: increase, rise, grow, climb, surge\nKamayish: decrease, fall, decline, drop, plummet\nBarqaror: remain stable, stay constant, level off\nTezlik: sharply (keskin), gradually (asta-sekin), slightly (biroz)\n\nMisol: \"Sales rose sharply between 2020 and 2022.\"\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c09c",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Overview — eng muhim qism",
+      "text": "🎯 Overview — eng muhim qism\n\nOverview'da RAQAM yozmang — faqat umumiy manzara:\n✅ \"Overall, the number of users increased over the period, while costs fell.\"\nExaminer avval Overview'ni qidiradi. Yaxshi overview = yuqori ball (Task Achievement).\n\nSolishtirish uchun: while, whereas, compared to, in contrast.\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c09d",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nTasavvur qiling: grafik 2010-2020 oralig'ida internet foydalanuvchilari 20%dan 80%gacha o'sgan. 1 ta OVERVIEW jumlasi yozing (raqamsiz).\nMisol: \"Overall, internet use rose significantly over the decade.\"\n\n💡 Useful word: trend /trend/ — tendensiya, yo'nalish\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c10a",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📖",
+      "title": "True / False / Not Given",
+      "text": "📖 True / False / Not Given\n\nBu eng qiyin savol turi. Ma'nosi:\n• TRUE — gap matndagi ma'lumotга MOS keladi\n• FALSE — gap matnga ZID (qarama-qarshi)\n• NOT GIVEN — matnda bu haqda HECH narsa yo'q\n\nEng katta xato: o'z bilimingizga tayanish. Faqat MATNGA qarang.\n\n📚 Manba: British Council IELTS — Reading question types\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c10b",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "FALSE va NOT GIVEN farqi",
+      "text": "💬 FALSE va NOT GIVEN farqi\n\n• FALSE — matn TESKARISINI aytadi.\n   Gap: \"The museum is free.\" Matn: \"Entry costs $5.\" → FALSE\n• NOT GIVEN — matn bu haqda gapirmaydi.\n   Gap: \"The museum is popular.\" Matn narx haqida gapiradi, mashhurlik haqida emas → NOT GIVEN\n\nMa'lumot YO'Q bo'lsa = NOT GIVEN.\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c10c",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Strategiya",
+      "text": "🎯 Strategiya\n\n1. Gapdagi kalit so'zni belgilang.\n2. Matndan o'sha qismni scan qiling.\n3. Gapni matn bilan diqqat bilan solishtiring.\n4. \"all, always, never, only\" kabi mutlaq so'zlarga ehtiyot bo'ling — ko'pincha FALSE bo'ladi.\n5. Savollar matn tartibida keladi.\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c10d",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nMatn: \"Tea was first grown in China. Today it is popular worldwide.\"\nAniqlang (T/F/NG):\n1. Tea originated in China. →\n2. Tea is only drunk in Asia. →\n3. Tea is the healthiest drink. →\n(Javob: 1 True, 2 False, 3 Not Given)\n\n💡 Useful word: state /steɪt/ — bayon qilmoq, aytmoq (the text states ...)\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c11a",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎧",
+      "title": "Multiple choice: to'g'ri javobni tanlash",
+      "text": "🎧 Multiple choice: to'g'ri javobni tanlash\n\n3 ta variant (A, B, C) beriladi, bittasi to'g'ri. Qiyinligi: barcha variantlar audioda eshitiladi, lekin faqat bittasi savolga to'liq javob beradi.\n\nMaslahat: audio boshlanishidan oldin savol va variantlarni o'qib oling (kalit so'zlarni belgilang).\n\n📚 Manba: British Council IELTS — Listening tips\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c11b",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "\"Tuzoq\"lardan ehtiyot bo'ling",
+      "text": "💬 \"Tuzoq\"lardan ehtiyot bo'ling\n\nSo'zlovchi ko'pincha noto'g'ri variantni aytib, KEYIN tuzatadi:\n\"I was going to take the bus, but actually I decided to walk.\"\n→ Javob: walk (bus emas!)\n\nBelgi so'zlar: but, however, actually, in fact, on second thoughts — bulardan KEYIN to'g'ri javob keladi.\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c11c",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Strategiya: paraphrase",
+      "text": "🎯 Strategiya: paraphrase\n\nAudioda savoldagi aynan o'sha so'zlar EMAS, sinonim ishlatiladi:\nSavol: \"expensive\" → Audio: \"costs a lot / pricey\"\nShuning uchun MA'NONI tinglang, faqat so'zni emas. Variantlarni eshitilish tartibi bo'yicha emas, MA'NOSI bo'yicha belgilang.\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c11d",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nInglizcha podkast yoki video oching (subtitrsiz). 1 daqiqa tinglab, \"but / actually / however\" so'zlaridan keyin nima aytilganini yozib oling.\n\n💡 Useful word: actually /ˈæk.tʃu.ə.li/ — aslida, haqiqatda (ko'pincha to'g'ri javobdan oldin keladi)\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c12a",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📚",
+      "title": "Environment: B2 so'zlar",
+      "text": "📚 Environment: B2 so'zlar\n\nIELTS'da ekologiya juda tez-tez chiqadi:\n• climate change /ˈklaɪ.mət tʃeɪndʒ/ — iqlim o'zgarishi\n• pollution /pəˈluː.ʃən/ — ifloslanish\n• renewable energy — qayta tiklanadigan energiya\n• carbon emissions — uglerod chiqindilari\n• sustainable /səˈsteɪ.nə.bəl/ — barqaror, ekologik toza\n\n📚 Manba: Cambridge English Vocabulary in Use (Upper-Intermediate)\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c12b",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "💻",
+      "title": "Technology: B2 so'zlar",
+      "text": "💻 Technology: B2 so'zlar\n\n• artificial intelligence (AI) — sun'iy intellekt\n• device /dɪˈvaɪs/ — qurilma\n• innovation /ˌɪn.əˈveɪ.ʃən/ — yangilik, ixtiro\n• cybersecurity — kiberxavfsizlik\n• automation /ˌɔː.təˈmeɪ.ʃən/ — avtomatlashtirish\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c12c",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Collocations",
+      "text": "🎯 Collocations\n\n• to reduce pollution — ifloslanishni kamaytirmoq\n• to tackle climate change — iqlim o'zgarishiga qarshi kurashmoq\n• to rely on technology — texnologiyaga tayanmoq\n• to protect the environment — atrof-muhitni himoya qilmoq\nBu birikmalarni Writing va Speaking'da ishlating.\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c12d",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nMavzu: \"Texnologiya atrof-muhitга qanday yordam beradi?\" — bugungi so'zlardan foydalanib 3 jumla yozing.\nMisol: \"Renewable energy can reduce carbon emissions and tackle climate change.\"\n\n💡 Useful word: sustainable /səˈsteɪ.nə.bəl/ — barqaror (kelajakka zarar bermaydigan)\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c13a",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🔧",
+      "title": "Conditionals: 1, 2, 3-tip",
+      "text": "🔧 Conditionals: 1, 2, 3-tip\n\n• Zero — har doim haqiqat: If you heat ice, it melts.\n• First (1) — real kelajak: If it rains, I will stay home.\n• Second (2) — xayoliy hozir/kelajak: If I were rich, I would travel.\n• Third (3) — o'tmishdagi afsus: If I had studied, I would have passed.\n\n📚 Manba: British Council — learnenglish.britishcouncil.org (Conditionals)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c13b",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Struktura (formula)",
+      "text": "💬 Struktura (formula)\n\n• 1-tip: If + Present Simple, ... will + verb\n• 2-tip: If + Past Simple, ... would + verb\n• 3-tip: If + Past Perfect, ... would have + V3\n\nEslatma: 2-tipda \"I were\" ishlatiladi (\"I was\" emas): If I were you...\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c13c",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Qaysi tip?",
+      "text": "🎯 Qaysi tip?\n\n• Real, ehtimoliy → 1-tip: \"If I have time, I'll call you.\"\n• Xayoliy, ehtimoldan uzoq → 2-tip: \"If I won the lottery, I'd buy a house.\"\n• O'tmish, o'zgartirib bo'lmaydi → 3-tip: \"If she had left earlier, she wouldn't have missed the train.\"\n\nSpeaking'da 2 va 3-tip yuqori grammatik darajani ko'rsatadi.\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c13d",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nTo'g'ri shaklni qo'ying:\n1. If I ___ (be) you, I would apologise.\n2. If it ___ (rain) tomorrow, we will cancel.\n3. If they had known, they ___ (come).\n(Javob: 1 were, 2 rains, 3 would have come)\n\n💡 Useful word: would /wʊd/ — bo'lardi (2 va 3-tip shart gaplarda)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c14a",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🔁",
+      "title": "Hafta 2: takrorlash",
+      "text": "🔁 Hafta 2: takrorlash\n\n✅ Speaking — Part 2 cue card (kalit so'z bilan tayyorgarlik)\n✅ Writing — Task 1 grafik + Overview\n✅ Reading — True / False / Not Given\n✅ Listening — Multiple choice (tuzoqlar)\n✅ Vocabulary — Environment & Technology\n✅ Grammar — Conditionals (1, 2, 3-tip)\n\nBugun sinab ko'ramiz!\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c14b",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-test: Conditionals",
+      "text": "🎯 Mini-test: Conditionals\n\nTo'g'ri shaklni tanlang:\n1. If I ___ (have) more time, I would learn the piano.\n2. If you heat water to 100°C, it ___ (boil).\n3. If she ___ (study) harder, she would have passed.\n\n(Javoblar 18:00 da)\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c14c",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-test: Reading (T/F/NG)",
+      "text": "🎯 Mini-test: Reading (T/F/NG)\n\nMatn: \"Electric cars produce no exhaust fumes. They are becoming more common in cities.\"\n1. Electric cars create exhaust gases. →\n2. Electric cars are increasing in cities. →\n3. Electric cars are cheaper than petrol cars. →\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c14d",
+      "type": "review",
+      "level": "B2",
+      "emoji": "✅",
+      "title": "Javoblar + Useful word",
+      "text": "✅ Javoblar + Useful word\n\nConditionals: 1 had, 2 boils, 3 had studied\nReading: 1 False, 2 True, 3 Not Given\n\nSpeaking mashqi: cue card \"Describe a useful gadget you own\" — 1.5 daqiqa ovozli gapiring.\n\n💡 Useful word: review /rɪˈvjuː/ — ko'rib chiqmoq, takrorlamoq\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c15a",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🗣",
+      "title": "Part 3: chuqur muhokama",
+      "text": "🗣 Part 3: chuqur muhokama\n\nPart 3'da Part 2 mavzusi bo'yicha ABSTRAKT, umumiy savollar beriladi (\"Why do people...?\", \"How will... change?\"). Bu yerda fikr, sabab va misol talab qilinadi.\n\nMaslahat: javobni kengaytiring — fikr + sabab + misol + qarama-qarshi tomon.\n\n📚 Manba: IELTS.org — Speaking Part 3 format\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c15b",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Fikr bildirish iboralari",
+      "text": "💬 Fikr bildirish iboralari\n\n• I would argue that ... — Men shunday deb hisoblayman ...\n• It seems to me that ... — Menimcha ...\n• On the one hand ... on the other hand ... — Bir tomondan ... boshqa tomondan ...\n• That said, ... — Shunga qaramay, ...\n• There's no doubt that ... — Shubhasiz ...\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c15c",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Misol javob",
+      "text": "🎯 Misol javob\n\n❓ \"Why do some people prefer to live in cities?\"\n✅ \"Well, I'd argue the main reason is opportunity. Cities offer better jobs and education. For example, most universities are in big cities. That said, some people find them too crowded and stressful.\"\n\nStruktura: fikr → sabab → misol → qarama-qarshi.\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c15d",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nQuyidagi savolga 30 soniya ovozli javob bering (fikr + sabab + misol):\n\"Do you think online learning will replace traditional schools?\"\n\n💡 Useful word: argue /ˈɑːɡ.juː/ — fikr bildirmoq, dalil keltirmoq (I would argue that...)\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c16a",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "✍",
+      "title": "Coherence & Cohesion nima?",
+      "text": "✍️ Coherence & Cohesion nima?\n\nBu Writing'ning 25% baliga teng mezon.\n• Coherence — fikrlar mantiqiy tartibda joylashishi.\n• Cohesion — fikrlarni bog'lovchi so'zlar (linking words) bilan ulash.\n\nYaxshi struktura + to'g'ri bog'lovchilar = examiner matnni oson o'qiydi = yuqori ball.\n\n📚 Manba: British Council IELTS — Writing Band Descriptors\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c16b",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Linking words (bog'lovchilar)",
+      "text": "💬 Linking words (bog'lovchilar)\n\n• Qo'shish: moreover, in addition, furthermore\n• Qarama-qarshilik: however, on the other hand, nevertheless\n• Sabab: because, since, due to\n• Natija: therefore, as a result, consequently\n• Misol: for example, for instance, such as\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c16c",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Maslahat: o'lchovni saqlang",
+      "text": "🎯 Maslahat: o'lchovni saqlang\n\n❌ Har jumlada bog'lovchi = sun'iy va og'ir.\n✅ Har paragrafda 2-3 ta tabiiy bog'lovchi yetarli.\n\nPronoun bilan ham bog'lang: \"Pollution is rising. THIS affects health.\" (\"this\" — takrorni kamaytiradi).\n\nHar paragraf bitta asosiy fikr (topic sentence) bilan boshlansin.\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c16d",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\n2 jumlani 1 ta bog'lovchi bilan ulang:\n\"Public transport is cheap. It reduces traffic.\"\nMisol: \"Public transport is cheap; moreover, it reduces traffic.\"\n\n💡 Useful word: however /haʊˈev.ər/ — biroq, lekin (qarama-qarshilikni ko'rsatadi)\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c17a",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📖",
+      "title": "Matching headings",
+      "text": "📖 Matching headings\n\nSizga sarlavhalar ro'yxati beriladi, ularni paragraflarga moslashtirasiz. Sarlavha — paragrafning ASOSIY g'oyasi (main idea), tafsilot emas.\n\nMaslahat: avval butun paragrafni o'qing, keyin \"Bu paragraf ASOSAN nima haqida?\" deb so'rang.\n\n📚 Manba: British Council IELTS — Reading question types\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c17b",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Asosiy g'oya vs tafsilot",
+      "text": "💬 Asosiy g'oya vs tafsilot\n\nEng katta xato: paragrafda bitta so'z sarlavhada bor deb, darrov tanlash. Bu \"tuzoq\".\n\n✅ Sarlavha butun paragrafni qamrab olishi kerak, faqat 1 jumlani emas.\nTopic sentence odatda paragraf BOSHIDA yoki OXIRIDA bo'ladi.\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c17c",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Strategiya",
+      "text": "🎯 Strategiya\n\n1. Sarlavhalar soni paragraflardan ko'p — hammasi ishlatilmaydi.\n2. Avval o'zingiz ishongan (oson) paragraflarni belgilang.\n3. Ishlatilgan sarlavhani o'chirib boring (qaytib ishlatilmaydi).\n4. Qiyinlari oxirida — qolgan variantlardan tanlang.\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c17d",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nInglizcha maqola oching. Har paragrafga O'ZINGIZ 3-4 so'zli sarlavha o'ylab toping. Bu \"asosiy g'oyani topish\" ko'nikmasini mashq qiladi.\n\n💡 Useful word: heading /ˈhed.ɪŋ/ — sarlavha, mavzu nomi\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c18a",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎧",
+      "title": "Form / Gap completion",
+      "text": "🎧 Form / Gap completion\n\nSection 1'da odatda forma to'ldiriladi: ism, manzil, telefon, sana, narx. Bu yerda IMLO (spelling) va RAQAM aniqligi muhim.\n\nMaslahat: so'z chegarasiga e'tibor bering — \"NO MORE THAN TWO WORDS\" desa, 3 so'z yozsangiz, javob noto'g'ri hisoblanadi.\n\n📚 Manba: British Council IELTS — Listening tips\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c18b",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Imlo (spelling) — harflarni taning",
+      "text": "💬 Imlo (spelling) — harflarni taning\n\nTelefonda harf aytilganda taning:\n• \"double L\" — ikkita L\n• G/J, B/V/P, M/N — ko'pincha adashtiriladi\n• Sanalar: \"the third of May\" = 3 May\n• Raqam: \"fifteen\" (15) va \"fifty\" (50) — urg'uга e'tibor bering!\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c18c",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Strategiya",
+      "text": "🎯 Strategiya\n\n1. Bo'sh joydan oldin/keyin so'zni o'qing — javob TURI (raqam? ism? narsa?) ni bashorat qiling.\n2. Faqat eshitganingizni yozing, taxmin qilmang.\n3. Imloda xato = ball yo'q. Oddiy so'zlarni to'g'ri yozishni mashq qiling.\n4. Birlik/ko'plik (-s) ham muhim.\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c18d",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nDo'stingizdan inglizcha 5 ta so'zni harflab aytishini so'rang (yoki audio toping). Yozib oling, keyin tekshiring. Raqamlarni ham mashq qiling: 13/30, 14/40, 15/50.\n\n💡 Useful word: spell /spel/ — harflab aytmoq (How do you spell it?)\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c19a",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📚",
+      "title": "Health: B2 so'zlar",
+      "text": "📚 Health: B2 so'zlar\n\n• immune system /ɪˈmjuːn/ — immunitet tizimi\n• balanced diet — muvozanatli ovqatlanish\n• mental health — ruhiy salomatlik\n• well-being /ˌwelˈbiː.ɪŋ/ — farovonlik, salomatlik\n• prevention /prɪˈven.ʃən/ — oldini olish\n\n📚 Manba: Cambridge English Vocabulary in Use (Upper-Intermediate)\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c19b",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🏃",
+      "title": "Lifestyle: B2 so'zlar",
+      "text": "🏃 Lifestyle: B2 so'zlar\n\n• sedentary lifestyle /ˈsed.ən.tər.i/ — kam harakatli turmush tarzi\n• work-life balance — ish-hayot muvozanati\n• stress management — stressni boshqarish\n• habit /ˈhæb.ɪt/ — odat\n• routine /ruːˈtiːn/ — kundalik tartib\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c19c",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Collocations",
+      "text": "🎯 Collocations\n\n• to stay fit — sog'lom bo'lib qolmoq\n• to lead a healthy lifestyle — sog'lom turmush kechirmoq\n• to take up a sport — sport bilan shug'ullana boshlamoq\n• to reduce stress — stressni kamaytirmoq\n• to break a bad habit — yomon odatni tashlamoq\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c19d",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\n\"Sog'lom bo'lib qolish uchun nima qilasiz?\" — bugungi so'zlardan 4 tasini ishlatib javob yozing.\nMisol: \"To stay fit, I follow a balanced diet and try to reduce stress.\"\n\n💡 Useful word: well-being /ˌwelˈbiː.ɪŋ/ — jismoniy va ruhiy farovonlik\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c20a",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🔧",
+      "title": "Passive Voice nima?",
+      "text": "🔧 Passive Voice nima?\n\nHarakat KIM tomonidan emas, NIMA bo'lganligi muhim bo'lganda ishlatiladi.\n• Active: \"They built the bridge in 1990.\"\n• Passive: \"The bridge was built in 1990.\"\n\nFormula: be + V3 (past participle).\nIELTS Writing Task 1 va rasmiy yozuvда juda foydali.\n\n📚 Manba: British Council — learnenglish.britishcouncil.org (Passive)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c20b",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Zamonlarda passive",
+      "text": "💬 Zamonlarda passive\n\n• Present: is/are + V3 → \"English is spoken here.\"\n• Past: was/were + V3 → \"It was made in Japan.\"\n• Present Perfect: has/have been + V3 → \"The work has been done.\"\n• Modal: can/will be + V3 → \"It can be improved.\"\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c20c",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Qachon ishlatish kerak?",
+      "text": "🎯 Qachon ishlatish kerak?\n\n• Harakat bajaruvchisi noma'lum yoki muhim emas: \"My bike was stolen.\"\n• Jarayon (process) tasvirlash: \"The beans are roasted, then ground.\"\n• Rasmiy/akademik uslub: \"It is believed that ...\"\n\n⚠️ Haddan tashqari ishlatmang — Speaking'da active ko'proq tabiiy.\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c20d",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nPassive'ga aylantiring:\n1. \"Someone cleans the office every day.\" →\n2. \"They will announce the results tomorrow.\" →\n(Javob: 1 The office is cleaned every day. 2 The results will be announced tomorrow.)\n\n💡 Useful word: produce /prəˈdjuːs/ — ishlab chiqarmoq (is produced — passive)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c21a",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🔁",
+      "title": "Hafta 3: takrorlash",
+      "text": "🔁 Hafta 3: takrorlash\n\n✅ Speaking — Part 3 muhokama (fikr + sabab + misol)\n✅ Writing — Coherence & Cohesion (linking words)\n✅ Reading — Matching headings (asosiy g'oya)\n✅ Listening — Gap-fill (imlo va raqam)\n✅ Vocabulary — Health & Lifestyle\n✅ Grammar — Passive Voice\n\nBugun mashq qilamiz!\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c21b",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-test: Passive",
+      "text": "🎯 Mini-test: Passive\n\nPassive'ga aylantiring:\n1. \"People speak English all over the world.\" →\n2. \"Someone has eaten my lunch.\" →\n3. \"They are building a new school.\" →\n\n(Javoblar 18:00 da)\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c21c",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-test: Linking words",
+      "text": "🎯 Mini-test: Linking words\n\nBo'shliqni to'ldiring (however / therefore / for example):\n1. It was raining; ___, we stayed inside.\n2. Many sports are healthy, ___ swimming and running.\n3. He studied hard; ___, he passed easily.\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c21d",
+      "type": "review",
+      "level": "B2",
+      "emoji": "✅",
+      "title": "Javoblar + Useful word",
+      "text": "✅ Javoblar + Useful word\n\nPassive: 1 English is spoken all over the world. 2 My lunch has been eaten. 3 A new school is being built.\nLinking: 1 therefore, 2 for example, 3 therefore\n\nSpeaking: \"How can people improve their health?\" — 30 soniya javob bering.\n\n💡 Useful word: improve /ɪmˈpruːv/ — yaxshilamoq, rivojlantirmoq\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c22a",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🗣",
+      "title": "Pronunciation: 25% bal",
+      "text": "🗣 Pronunciation: 25% bal\n\nTalaffuz Speaking'ning 4 mezonidan biri. Toza aksent shart EMAS — muhimi TUSHUNARLI bo'lish.\n\n3 ta asosiy element:\n• Word stress — so'zdagi urg'u\n• Sentence stress — gapdagi muhim so'zlarni ajratish\n• Intonation — ohang (ko'tarilish/pasayish)\n\n📚 Manba: British Council / IELTS.org — Pronunciation\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c22b",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Word stress (so'z urg'usi)",
+      "text": "💬 Word stress (so'z urg'usi)\n\nNoto'g'ri urg'u ma'noni o'zgartiradi:\n• PREsent (sovg'a) ≠ preSENT (taqdim etmoq)\n• REcord (yozuv) ≠ reCORD (yozib olmoq)\n• phoTOgraphy — urg'u 2-bo'g'inda\n\nLug'atda urg'u belgisi ( ' ) ko'rsatiladi. Yangi so'zni urg'usi bilan yodlang.\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c22c",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Intonation (ohang)",
+      "text": "🎯 Intonation (ohang)\n\n• Yes/No savol → ohang KO'TARILADI: \"Do you like it? ↗\"\n• Wh- savol → ohang PASAYADI: \"Where do you live? ↘\"\n• Ro'yxat → har bandda ko'tariladi, oxirida pasayadi.\n\nBir xil (\"flat\") ohangda gapirish zerikarli eshitiladi va ball pasaytiradi.\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c22d",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\n\"Shadowing\" mashqi: inglizcha 30 soniyalik videoni tinglab, so'zlovchining ohangini TAQLID qilib takrorlang. Ovozingizni yozib, solishtiring.\n\n💡 Useful word: stress /stres/ — urg'u (so'zda kuchli aytiladigan bo'g'in)\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c23a",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "✍",
+      "title": "Opinion essay (Agree/Disagree)",
+      "text": "✍️ Opinion essay (Agree/Disagree)\n\n\"To what extent do you agree or disagree?\" — eng ko'p uchraydigan Task 2 turi.\n\nQoida: pozitsiyangiz AYDIN bo'lsin. Introduction'da pozitsiyani ayting va butun inshoda unga sodiq qoling.\n\nStruktura: Intro (pozitsiya) → 2 ta sabab paragraf → Conclusion.\n\n📚 Manba: British Council IELTS — Writing Task 2\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c23b",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Pozitsiya iboralari",
+      "text": "💬 Pozitsiya iboralari\n\n• I completely agree that ... — To'liq qo'shilaman ...\n• I partly agree, but ... — Qisman qo'shilaman, lekin ...\n• In my view, the benefits outweigh the drawbacks — Menimcha, foydasi zararidan ko'p\n• While some believe ..., I would argue ... — Ba'zilar ... deb hisoblasa-da, men ...\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c23c",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Argumentni rivojlantirish (PEEL)",
+      "text": "🎯 Argumentni rivojlantirish (PEEL)\n\nHar body paragraf:\n• Point — asosiy fikr (topic sentence)\n• Explain — nega? tushuntiring\n• Example — misol keltiring\n• Link — fikrni mavzuga bog'lang\n\nMisol: \"Firstly, technology saves time. By automating tasks, workers can focus on creative work. For instance, software now handles accounting. This boosts productivity.\"\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c23d",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nMavzu: \"Some people think exams are the best way to assess students. Do you agree?\"\nFaqat 1 ta BODY paragraf yozing (PEEL: Point + Explain + Example + Link).\n\n💡 Useful word: outweigh /ˌaʊtˈweɪ/ — ustun kelmoq, og'irroq bo'lmoq (benefits outweigh drawbacks)\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c24a",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📖",
+      "title": "Vaqt boshqaruvi: 60 daqiqa, 40 savol",
+      "text": "📖 Vaqt boshqaruvi: 60 daqiqa, 40 savol\n\n3 ta matn, har biriga ~20 daqiqa. Ko'p o'quvchi vaqt yetishmay qoladi.\n\nAsosiy qoida: bitta savolga 1.5 daqiqadan ortiq sarflamang. Qийин savolni belgilab, KEYINGISIGA o'ting — oxirida qайtib kelasiz.\n\n📚 Manba: British Council IELTS — Reading test tips\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c24b",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Tartib strategiyasi",
+      "text": "💬 Tartib strategiyasi\n\n1. Avval SAVOLLARNI o'qing, keyin matnni.\n2. Oson savollardan boshlang (gap-fill, ism-sana).\n3. Matnni boshdan-oxir o'qimang — kerakli joyni SCAN qiling.\n4. Har javobni daftar emas, JAVOB VARAQASIga ko'chiring (vaqt tejaydi).\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c24c",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Bo'sh qoldirmang!",
+      "text": "🎯 Bo'sh qoldirmang!\n\nNoto'g'ri javob uchun ball KAMAYMAYDI. Shuning uchun:\n• Bilmasangiz ham — taxmin qiling.\n• T/F/NG da bo'sh qolsa, \"Not Given\" yozing.\n• Multiple choice'da eng mantiqiy variantni tanlang.\nHar bir savol = 1 ball, qiyin va oson teng.\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c24d",
+      "type": "reading",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nTaymer qo'ying: 1 ta IELTS reading passage'ni 20 daqiqada bajaring (13-14 savol). Vaqtni his qilish — bu eng muhim mashq.\n\n💡 Useful word: skip /skɪp/ — o'tkazib yubormoq (skip a difficult question)\n\n#reading #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c25a",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎧",
+      "title": "Turli aksentlar",
+      "text": "🎧 Turli aksentlar\n\nIELTS Listening turli aksentlardan foydalanadi: Britan, Amerika, Avstraliya, Kanada. Bu o'quvchilarni hayron qoldiradi.\n\nYechim: turli aksentlarni MUNTAZAM tinglang — BBC (Britan), CNN (Amerika), ABC (Avstraliya). Quloq o'rganadi.\n\n📚 Manba: British Council IELTS — Listening tips\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c25b",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Javobni oldindan bashorat qilish",
+      "text": "💬 Javobni oldindan bashorat qilish\n\nAudio boshlanishidan oldin savolni o'qib, JAVOB TURINI bashorat qiling:\n• \"___ people attended\" → RAQAM kerak\n• \"It is made of ___\" → MATERIAL kerak\n• \"The meeting is on ___\" → SANA/KUN kerak\n\nBu sizni tayyor holatga keltiradi va xatoni kamaytiradi.\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c25c",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Diqqatni saqlash",
+      "text": "🎯 Diqqatni saqlash\n\nAudio FAQAT BIR MARTA yangraydi. Shuning uchun:\n• Bir javobni o'tkazsangiz, to'xtab qolmang — keyingisiga o'ting.\n• Yozayotganda ham tinglashни davom ettiring.\n• Section oxiridagi tekshirish vaqtidan foydalaning.\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c25d",
+      "type": "listening",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nBugun BBC Learning English yoki TED Talk (Britan aksenti) 3 daqiqa tinglang. Subtitrsiz. Yangi eshitilgan so'zlarni yozib oling.\n\n💡 Useful word: predict /prɪˈdɪkt/ — oldindan aytmoq, bashorat qilmoq\n\n#listening #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c26a",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📚",
+      "title": "Society: B2 so'zlar",
+      "text": "📚 Society: B2 so'zlar\n\n• community /kəˈmjuː.nə.ti/ — jamoa, hamjamiyat\n• inequality /ˌɪn.ɪˈkwɒl.ə.ti/ — tengsizlik\n• generation gap — avlodlar farqi\n• urbanisation /ˌɜː.bən.aɪˈzeɪ.ʃən/ — shaharlashish\n• volunteer /ˌvɒl.ənˈtɪər/ — ko'ngilli\n\n📚 Manba: Cambridge English Vocabulary in Use (Upper-Intermediate)\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c26b",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📱",
+      "title": "Media: B2 so'zlar",
+      "text": "📱 Media: B2 so'zlar\n\n• social media — ijtimoiy tarmoqlar\n• advertisement /ədˈvɜː.tɪs.mənt/ — reklama\n• influence /ˈɪn.flu.əns/ — ta'sir\n• fake news — soxta xabar\n• broadcast /ˈbrɔːd.kɑːst/ — efirga uzatmoq\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c26c",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Collocations",
+      "text": "🎯 Collocations\n\n• to raise awareness — xabardorlikni oshirmoq\n• to have a positive/negative impact — ijobiy/salbiy ta'sir ko'rsatmoq\n• to spread information — ma'lumot tarqatmoq\n• to bridge the generation gap — avlodlar farqini kamaytirmoq\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c26d",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\n\"Ijtimoiy tarmoqlar jamiyatga qanday ta'sir qiladi?\" — bugungi so'zlardan 4 tasini ishlatib 3 jumla yozing.\nMisol: \"Social media can spread information quickly, but it may also spread fake news.\"\n\n💡 Useful word: influence /ˈɪn.flu.əns/ — ta'sir, ta'sir ko'rsatmoq\n\n#vocabulary #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c27a",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🔧",
+      "title": "Relative clauses",
+      "text": "🔧 Relative clauses\n\n2 ta gapni 1 ta qilib bog'laydi va so'z boyligini ko'rsatadi:\n• who — odam uchun: \"The man who called you is here.\"\n• which — narsa uchun: \"The book which I read was great.\"\n• that — odam/narsa (gaplashuvда): \"the car that I bought\"\n• where — joy uchun: \"the city where I was born\"\n\n📚 Manba: British Council — learnenglish.britishcouncil.org (Relative clauses)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c27b",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Defining vs Non-defining",
+      "text": "💬 Defining vs Non-defining\n\n• Defining — muhim ma'lumot, vergulsiz:\n   \"Students who study hard pass.\" (qaysi talabalar?)\n• Non-defining — qo'shimcha ma'lumot, VERGUL bilan:\n   \"My brother, who lives in London, is a doctor.\"\n\nNon-defining'da \"that\" ISHLATILMAYDI.\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c27c",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Nega foydali?",
+      "text": "🎯 Nega foydali?\n\nRelative clauses Writing va Speaking'da grammatik darajani (Grammatical Range) oshiradi:\n❌ Oddiy: \"I have a friend. He speaks five languages.\"\n✅ B2: \"I have a friend who speaks five languages.\"\n\n2 ta qisqa gapni 1 ta murakkab gapга birlashtiring.\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c27d",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\n2 gapni 1 ta qiling (who/which/where):\n1. \"This is the school. I studied there.\" →\n2. \"She has a car. It is electric.\" →\n(Javob: 1 This is the school where I studied. 2 She has a car which is electric.)\n\n💡 Useful word: whose /huːz/ — kimning (The man whose car was stolen...)\n\n#grammar #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c28a",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🔁",
+      "title": "Hafta 4: takrorlash",
+      "text": "🔁 Hafta 4: takrorlash\n\n✅ Speaking — Pronunciation (urg'u, ohang)\n✅ Writing — Opinion essay (PEEL)\n✅ Reading — Vaqt boshqaruvi\n✅ Listening — Aksent va bashorat\n✅ Vocabulary — Society & Media\n✅ Grammar — Relative clauses\n\nBugun — kichik mock test!\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c28b",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-mock: Grammar",
+      "text": "🎯 Mini-mock: Grammar\n\nTo'g'rilang yoki to'ldiring:\n1. The woman ___ lives next door is a teacher. (who/which?)\n2. Paris, ___ is the capital of France, is beautiful. (which/that?)\n3. This is the park ___ we met. (where/which?)\n\n(Javoblar 18:00 da)\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c28c",
+      "type": "review",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Mini-mock: Vocabulary",
+      "text": "🎯 Mini-mock: Vocabulary\n\nTo'g'ri so'z (influence / community / fake news / awareness):\n1. The campaign raised ___ about recycling.\n2. Don't believe ___ on the internet.\n3. Celebrities have a big ___ on teenagers.\n4. Our ___ organised a clean-up day.\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c28d",
+      "type": "review",
+      "level": "B2",
+      "emoji": "✅",
+      "title": "Javoblar + Useful word",
+      "text": "✅ Javoblar + Useful word\n\nGrammar: 1 who, 2 which, 3 where\nVocabulary: 1 awareness, 2 fake news, 3 influence, 4 community\n\n🎉 1 oy o'qidingiz — tabriklaymiz! Speaking: \"What did you learn this month?\" — 1 daqiqa ovozli javob bering.\n\n💡 Useful word: progress /ˈprəʊ.ɡres/ — taraqqiyot, o'sish\n\n#review #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c29a",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🗣",
+      "title": "Noma'lum mavzuда gapirish",
+      "text": "🗣 Noma'lum mavzuда gapirish\n\nImtihonda bilmagan mavzu chiqsa — to'xtab qolmaslik muhim. \"Vaqt yutuvchi\" iboralar yordam beradi:\n• That's an interesting question ... — Qiziq savol ...\n• Let me think for a moment ... — Bir o'ylab ko'ray ...\n• Well, it's hard to say, but ... — Aytish qiyin, lekin ...\n\nBu iboralar jimlikni to'ldiradi va tabiiy ko'rinadi.\n\n📚 Manba: IELTS.org — Speaking fluency\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c29b",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Paraphrasing — so'z esga tushmasa",
+      "text": "💬 Paraphrasing — so'z esga tushmasa\n\nSo'z yodingizdan chiqsa, BOSHQACHA tushuntiring:\n• \"It's a kind of ...\" — Bu bir turdagi ...\n• \"It's the thing you use to ...\" — Bu ... uchun ishlatadigan narsa\n• \"It's similar to ...\" — Bu ... ga o'xshaydi\n\nMisol: \"thermometer\" esingizда yo'q → \"the thing you use to measure temperature\".\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c29c",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Linking words (Speaking uchun)",
+      "text": "🎯 Linking words (Speaking uchun)\n\nTabiiy bog'lovchilar ravonlik beradi:\n• and then, after that — keyin\n• because, so — chunki, shuning uchun\n• but, although — lekin, garchi\n• for example, like — masalan\n⚠️ Yozma bog'lovchilarni (moreover, furthermore) Speaking'da kam ishlating — sun'iy eshitiladi.\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c29d",
+      "type": "speaking",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nTasodifiy mavzu tanlang (masalan \"robots\") va 1 daqiqa TO'XTAMASDAN gapiring. To'xtab qolsangiz, \"vaqt yutuvchi\" iborani ishlating.\n\n💡 Useful word: fluent /ˈfluː.ənt/ — ravon (gapni erkin va to'xtamasdan ayta oladigan)\n\n#speaking #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c30a",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "✍",
+      "title": "Eng ko'p uchraydigan xatolar",
+      "text": "✍️ Eng ko'p uchraydigan xatolar\n\nIELTS Writing'da B2 o'quvchilar ko'p qiladigan xatolar:\n• Artikl: \"I have car\" → \"I have A car\"\n• Birlik/ko'plik: \"many informations\" → \"much information\"\n• Zamon: gap o'rtasida zamonни almashtirib yuborish\n• So'z tartibi: \"I like very much it\" → \"I like it very much\"\n\n📚 Manba: Cambridge English — Common errors at B2\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c30b",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "💬",
+      "title": "Sanab bo'lmaydigan otlar (uncountable)",
+      "text": "💬 Sanab bo'lmaydigan otlar (uncountable)\n\nBular ALWAYS birlik, \"a/many\" olmaydi:\n• information, advice, news, knowledge, research, furniture, money, traffic\n❌ \"an advice / many advices\"\n✅ \"some advice / a piece of advice\"\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c30c",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "🎯",
+      "title": "Tahrir (editing) — oxirgi 3 daqiqa",
+      "text": "🎯 Tahrir (editing) — oxirgi 3 daqiqa\n\nYozib bo'lgach, tekshiring:\n1. Har gapda fe'l (verb) bormi?\n2. Artikllar (a/an/the) joyidami?\n3. Birlik/ko'plik to'g'rimi (-s)?\n4. So'z sonini sanang (Task 2 ≥ 250, Task 1 ≥ 150).\n\nTahrir 1 band ko'tarishi mumkin!\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    },
+    {
+      "id": "c30d",
+      "type": "writing",
+      "level": "B2",
+      "emoji": "📝",
+      "title": "Homework + Useful word",
+      "text": "📝 Homework + Useful word\n\nXatoni toping va tuzating:\n1. \"She gave me an useful advice.\"\n2. \"There is many traffic today.\"\n(Javob: 1 a useful piece of advice / some useful advice. 2 There is a lot of traffic today.)\n\n🎉 30 kunlik kursni tugatdingiz! Davom eting va IELTS'ни zabt eting!\n\n💡 Useful word: accuracy /ˈæk.jə.rə.si/ — aniqlik, xatosizlik\n\n#writing #IELTS #B2 #EnglishFreeCourse"
+    }
+  ],
+  "archived_posts": [
+    {
+      "id": "n001",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "3 Powerful Verbs",
       "text": "🔤 WORD OF THE DAY\n\n📌 achieve /əˈtʃiːv/ — erishmoq\n📌 improve /ɪmˈpruːv/ — yaxshilamoq\n📌 overcome /ˌəʊvəˈkʌm/ — yengmoq, bartaraf etmoq\n\n💬 With daily practice, you can overcome any difficulty and achieve your goals.\n🇺🇿 Har kunlik mashq bilan har qanday qiyinchilikni yengib, maqsadingizga erishasiz."
     },
     {
-      "id": "n002", "type": "science", "level": "B1", "emoji": "🐙",
+      "id": "n002",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🐙",
       "title": "Octopus has 3 hearts",
       "text": "🔬 SCIENCE FACT\n\nAn octopus has three hearts and blue blood. Two hearts pump blood to the gills, and one pumps it to the rest of the body.\n\n🇺🇿 Sakkizoyoqning uchta yuragi va ko'k qoni bor. Ikki yurak qonni jabralarga, biri esa butun tanaga haydaydi.\n\n📚 Murakkab so'zlar: gills /ɡɪlz/ — jabralar; pump /pʌmp/ — haydamoq"
     },
     {
-      "id": "n003", "type": "history", "level": "B2", "emoji": "🏛",
+      "id": "n003",
+      "type": "history",
+      "level": "B2",
+      "emoji": "🏛",
       "title": "Cleopatra & the Pyramids",
       "text": "🏛 HISTORY FACT\n\nCleopatra lived closer in time to the first Moon landing (1969) than to the building of the Great Pyramid. The Pyramid was completed around 2560 BC — about 2,500 years before her birth.\n\n🇺🇿 Kleopatra Buyuk Piramida qurilishidan (mil. av. ~2560) ko'ra, 1969-yilgi Oyga qo'nishga vaqt jihatdan yaqinroq yashagan. Piramida undan ~2500 yil oldin qurilgan.\n\n📚 So'zlar: ancient /ˈeɪnʃənt/ — qadimiy; century /ˈsentʃəri/ — asr"
     },
     {
-      "id": "n004", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n004",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "The Lion and the Mouse",
       "text": "📖 SHORT STORY · The Lion and the Mouse\n\nA tiny mouse woke a sleeping lion. The lion caught it, but the mouse begged for mercy, so the lion let it go. Later, hunters trapped the lion in a net. The little mouse heard him roar and chewed the ropes until the lion was free.\n\n💡 Moral: Even the small can help the mighty.\n🇺🇿 Kichik sichqon uxlayotgan sherni uyg'otadi. Sher uni kechiradi. Keyin sher to'rga tushganda, sichqon arqonlarni kemirib uni qutqaradi. Xulosa: kichik ham kuchliga yordam bera oladi.\n\n📚 mercy /ˈmɜːsi/ — rahm; net /net/ — to'r; chew /tʃuː/ — kemirmoq"
     },
     {
-      "id": "n005", "type": "test", "level": "A2", "emoji": "📝",
+      "id": "n005",
+      "type": "test",
+      "level": "A2",
+      "emoji": "📝",
       "title": "Grammar Quiz",
       "text": "📝 GRAMMAR TEST\n\nShe ____ to school every day.\n\nA) go\nB) goes\nC) going\nD) gone\n\n💭 Javobni o'ylab toping! 👇",
       "answer": "✅ To'g'ri javob: B) goes\n\n📖 Present Simple'da he/she/it bilan fe'lga -s/-es qo'shiladi: she goes, he reads, it works."
     },
     {
-      "id": "n006", "type": "history", "level": "B1", "emoji": "🏙",
+      "id": "n006",
+      "type": "history",
+      "level": "B1",
+      "emoji": "🏙",
       "title": "Samarkand — 2750 years",
       "text": "🏛 HISTORY · Uzbekistan\n\nSamarkand is over 2,750 years old — one of the oldest continuously inhabited cities in Central Asia. It was a key city on the Silk Road, and in 1370 the ruler Amir Temur (Tamerlane) made it his capital.\n\n🇺🇿 Samarqand 2750 yildan oshiq tarixga ega — Markaziy Osiyodagi eng qadimiy shaharlardan biri. Buyuk Ipak yo'lining muhim shahri; 1370-yilda Amir Temur uni poytaxt qilgan.\n\n📚 So'zlar: inhabited /ɪnˈhæbɪtɪd/ — aholi yashaydigan; capital /ˈkæpɪtl/ — poytaxt"
     },
     {
-      "id": "n007", "type": "science", "level": "B2", "emoji": "⚡",
+      "id": "n007",
+      "type": "science",
+      "level": "B2",
+      "emoji": "⚡",
       "title": "Lightning vs the Sun",
       "text": "🔬 SCIENCE FACT\n\nA bolt of lightning can reach about 30,000°C — that is roughly five times hotter than the surface of the Sun (~5,500°C).\n\n🇺🇿 Chaqmoq harorati ~30,000°C ga yetadi — bu Quyosh sirtidan (~5,500°C) qariyb besh barobar issiqroq.\n\n📚 So'zlar: lightning /ˈlaɪtnɪŋ/ — chaqmoq; surface /ˈsɜːfɪs/ — sirt, yuza"
     },
     {
-      "id": "n008", "type": "vocabulary", "level": "B2", "emoji": "🔤",
+      "id": "n008",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🔤",
       "title": "IELTS Trend Words",
       "text": "🔤 IELTS VOCABULARY\n\n📌 significant /sɪɡˈnɪfɪkənt/ — sezilarli, muhim\n📌 gradual /ˈɡrædʒuəl/ — bosqichma-bosqich\n📌 fluctuate /ˈflʌktʃueɪt/ — o'zgarib turmoq\n\n💬 Prices fluctuated in spring but showed a significant rise by the end of the year.\n🇺🇿 Bahorda narxlar o'zgarib turdi, lekin yil oxiriga sezilarli o'sdi."
     },
     {
-      "id": "n009", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n009",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Tortoise and the Hare",
       "text": "📖 SHORT STORY · The Tortoise and the Hare\n\nA fast hare laughed at a slow tortoise and challenged him to a race. The hare ran ahead, then stopped to nap, sure he would win. The tortoise kept moving slowly without stopping — and crossed the finish line first.\n\n💡 Moral: Slow and steady wins the race.\n🇺🇿 Tez quyon sekin toshbaqani masxara qilib, poygaga chaqiradi. Quyon uxlab qoladi; toshbaqa to'xtamay yurib, birinchi keladi. Xulosa: sekin, lekin barqaror harakat g'alaba keltiradi.\n\n📚 hare /heə/ — quyon; nap /næp/ — mizg'imoq; steady /ˈstedi/ — barqaror"
     },
     {
-      "id": "n010", "type": "science", "level": "A2", "emoji": "🍌",
+      "id": "n010",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🍌",
       "title": "Bananas are berries",
       "text": "🔬 SCIENCE FACT\n\nBotanically, a banana is a berry, but a strawberry is not! A true berry grows from one flower with one ovary — bananas qualify, strawberries do not.\n\n🇺🇿 Botanika nuqtai nazaridan banan — rezavor meva (berry), lekin qulupnay emas! Haqiqiy berry bitta gulning bitta tugunchasidan o'sadi.\n\n📚 So'zlar: berry /ˈberi/ — rezavor meva; flower /ˈflaʊə/ — gul"
     },
     {
-      "id": "n011", "type": "idiom", "level": "B1", "emoji": "🗣",
+      "id": "n011",
+      "type": "idiom",
+      "level": "B1",
+      "emoji": "🗣",
       "title": "Idiom: Piece of cake",
       "text": "🗣 IDIOM OF THE DAY\n\n🍰 \"a piece of cake\" — juda oson ish\n\n💬 The test was a piece of cake for her.\n🇺🇿 So'zma-so'z \"bir bo'lak tort\" emas — ma'nosi \"juda oson\". Suhbatda tabiiy eshitiladi: The exam was a piece of cake.\n\n📚 piece /piːs/ — bo'lak; easy /ˈiːzi/ — oson"
     },
     {
-      "id": "n012", "type": "history", "level": "B2", "emoji": "⏱",
+      "id": "n012",
+      "type": "history",
+      "level": "B2",
+      "emoji": "⏱",
       "title": "Shortest war: 38 min",
       "text": "🏛 HISTORY FACT\n\nThe shortest war in recorded history was the Anglo-Zanzibar War (27 August 1896). It lasted only about 38 minutes, from 09:02 to 09:40.\n\n🇺🇿 Tarixdagi eng qisqa urush — Angliya-Zanzibar urushi (1896-yil 27-avgust). U atigi ~38 daqiqa davom etgan (soat 09:02 dan 09:40 gacha).\n\n📚 So'zlar: war /wɔː/ — urush; recorded /rɪˈkɔːdɪd/ — qayd etilgan; last /lɑːst/ — davom etmoq"
     },
     {
-      "id": "n013", "type": "vocabulary", "level": "C1", "emoji": "🔤",
+      "id": "n013",
+      "type": "vocabulary",
+      "level": "C1",
+      "emoji": "🔤",
       "title": "Advanced Words",
       "text": "🔤 ADVANCED VOCABULARY\n\n📌 inevitable /ɪnˈevɪtəbl/ — muqarrar\n📌 profound /prəˈfaʊnd/ — chuqur, kuchli\n📌 mitigate /ˈmɪtɪɡeɪt/ — yumshatmoq, kamaytirmoq\n\n💬 Technology has a profound impact on society, and change is inevitable.\n🇺🇿 Texnologiya jamiyatga chuqur ta'sir qiladi, o'zgarish esa muqarrar."
     },
     {
-      "id": "n014", "type": "science", "level": "B1", "emoji": "☀️",
+      "id": "n014",
+      "type": "science",
+      "level": "B1",
+      "emoji": "☀️",
       "title": "Sunlight takes 8 minutes",
       "text": "🔬 SCIENCE FACT\n\nLight from the Sun takes about 8 minutes and 20 seconds to reach Earth. So you always see the Sun as it looked 8 minutes ago!\n\n🇺🇿 Quyosh nuri Yerga yetib kelishi uchun ~8 daqiqa 20 soniya ketadi. Demak siz Quyoshni doim 8 daqiqa oldingi holatida ko'rasiz!\n\n📚 So'zlar: light /laɪt/ — nur, yorug'lik; reach /riːtʃ/ — yetib bormoq"
     },
     {
-      "id": "n015", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n015",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "The Boy Who Cried Wolf",
       "text": "📖 SHORT STORY · The Boy Who Cried Wolf\n\nA shepherd boy often shouted \"Wolf!\" as a joke, and villagers ran to help — but there was no wolf. One day a real wolf came. The boy shouted, but this time nobody believed him.\n\n💡 Moral: Liars are not believed, even when they tell the truth.\n🇺🇿 Cho'pon bola hazillashib \"Bo'ri!\" deb baqirardi. Bir kuni haqiqiy bo'ri kelganda, hech kim ishonmadi. Xulosa: yolg'onchiga rost aytganda ham ishonishmaydi.\n\n📚 shepherd /ˈʃepəd/ — cho'pon; villager /ˈvɪlɪdʒə/ — qishloq aholisi; believe /bɪˈliːv/ — ishonmoq"
     },
     {
-      "id": "n016", "type": "test", "level": "B1", "emoji": "📝",
+      "id": "n016",
+      "type": "test",
+      "level": "B1",
+      "emoji": "📝",
       "title": "Conditional Quiz",
       "text": "📝 GRAMMAR TEST\n\nIf I ____ more time, I would travel the world.\n\nA) have\nB) had\nC) will have\nD) having\n\n💭 Javob 👇",
       "answer": "✅ To'g'ri javob: B) had\n\n📖 Second Conditional (hozirgi noreal holat): If + Past Simple, ... would + V1. \"If I had time, I would travel.\""
     },
     {
-      "id": "n017", "type": "history", "level": "B2", "emoji": "🎓",
+      "id": "n017",
+      "type": "history",
+      "level": "B2",
+      "emoji": "🎓",
       "title": "Oxford older than Aztecs",
       "text": "🏛 HISTORY FACT\n\nTeaching at the University of Oxford began around 1096. The Aztec capital, Tenochtitlán, was founded in 1325 — so Oxford was already over two centuries old before the Aztec city existed.\n\n🇺🇿 Oksford universitetida dars ~1096-yilda boshlangan. Atstek poytaxti Tenochtitlan esa 1325-yilda asos solingan — ya'ni Oksford undan 200 yildan oshiq oldin mavjud edi.\n\n📚 So'zlar: founded /ˈfaʊndɪd/ — asos solingan; century /ˈsentʃəri/ — asr"
     },
     {
-      "id": "n018", "type": "science", "level": "B2", "emoji": "🦈",
+      "id": "n018",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🦈",
       "title": "Sharks older than trees",
       "text": "🔬 SCIENCE FACT\n\nSharks are older than trees. Sharks have existed for about 450 million years, while the first true trees appeared around 385 million years ago.\n\n🇺🇿 Sharklar (akula) daraxtlardan ham qadimiy. Sharklar ~450 million yildan beri mavjud, birinchi haqiqiy daraxtlar esa ~385 million yil avval paydo bo'lgan.\n\n📚 So'zlar: appear /əˈpɪə/ — paydo bo'lmoq; million /ˈmɪljən/ — million"
     },
     {
-      "id": "n019", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n019",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Phrasal Verbs",
       "text": "🔤 PHRASAL VERBS\n\n📌 give up — voz kechmoq\n📌 find out — bilib olmoq\n📌 carry on — davom ettirmoq\n\n💬 Never give up — find out your weak points and carry on practising.\n🇺🇿 Hech qachon voz kechmang — zaif tomonlaringizni aniqlang va mashqni davom ettiring."
     },
     {
-      "id": "n020", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n020",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Ant and the Grasshopper",
       "text": "📖 SHORT STORY · The Ant and the Grasshopper\n\nAll summer the grasshopper sang while the ant stored food for winter. When the cold came, the grasshopper was hungry and the ant was safe and warm.\n\n💡 Moral: Prepare today for the needs of tomorrow.\n🇺🇿 Yoz bo'yi chigirtka qo'shiq aytdi, chumoli esa qishga oziq yig'di. Qish kelganda chumoli to'q, chigirtka och qoldi. Xulosa: ertangi kun uchun bugundan tayyorlan.\n\n📚 store /stɔː/ — saqlamoq, jamg'armoq; hungry /ˈhʌŋɡri/ — och; prepare /prɪˈpeə/ — tayyorlanmoq"
     },
     {
-      "id": "n021", "type": "science", "level": "A2", "emoji": "🧊",
+      "id": "n021",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🧊",
       "title": "Water expands when frozen",
       "text": "🔬 SCIENCE FACT\n\nMost liquids shrink when they get cold, but water expands by about 9% when it freezes. That is why ice floats on water.\n\n🇺🇿 Ko'p suyuqliklar sovuganda qisqaradi, lekin suv muzlaganda ~9% ga kengayadi. Shu sababli muz suv ustida suzadi.\n\n📚 So'zlar: expand /ɪkˈspænd/ — kengaymoq; freeze /friːz/ — muzlamoq; float /fləʊt/ — suzmoq"
     },
     {
-      "id": "n022", "type": "history", "level": "B1", "emoji": "🐉",
+      "id": "n022",
+      "type": "history",
+      "level": "B1",
+      "emoji": "🐉",
       "title": "Great Wall myth",
       "text": "🏛 HISTORY FACT\n\nIt is a popular myth that the Great Wall of China can be seen from space with the naked eye. In reality, it is too narrow to see without help, even from low orbit.\n\n🇺🇿 Buyuk Xitoy devorini koinotdan oddiy ko'z bilan ko'rish mumkin degan fikr — afsona. Aslida u juda ingichka, hatto past orbitadan ham yordamchi asbobsiz ko'rinmaydi.\n\n📚 So'zlar: myth /mɪθ/ — afsona; narrow /ˈnærəʊ/ — ingichka, tor"
     },
     {
-      "id": "n023", "type": "vocabulary", "level": "B2", "emoji": "🔤",
+      "id": "n023",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🔤",
       "title": "Describe Emotions",
       "text": "🔤 VOCABULARY · Feelings\n\n📌 anxious /ˈæŋkʃəs/ — xavotirli\n📌 grateful /ˈɡreɪtfl/ — minnatdor\n📌 confident /ˈkɒnfɪdənt/ — ishonchli, dadil\n\n💬 I felt anxious before the exam, but now I am confident and grateful for my practice.\n🇺🇿 Imtihondan oldin xavotirda edim, endi esa ishonchliman va mashqim uchun minnatdorman."
     },
     {
-      "id": "n024", "type": "science", "level": "B2", "emoji": "🪐",
+      "id": "n024",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🪐",
       "title": "A day longer than a year",
       "text": "🔬 SCIENCE FACT\n\nOn Venus, a day is longer than a year. Venus rotates so slowly that one full rotation (about 243 Earth days) takes longer than one orbit around the Sun (about 225 Earth days).\n\n🇺🇿 Veneradagi bir kun bir yildan uzun. Venera shunchalik sekin aylanadiki, bir marta o'q atrofida aylanishi (~243 Yer kuni) Quyosh atrofini aylanib chiqishidan (~225 Yer kuni) uzoqroq.\n\n📚 So'zlar: rotate /rəʊˈteɪt/ — aylanmoq; orbit /ˈɔːbɪt/ — orbita"
     },
     {
-      "id": "n025", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n025",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Fox and the Grapes",
       "text": "📖 SHORT STORY · The Fox and the Grapes\n\nA hungry fox saw juicy grapes hanging high on a vine. He jumped again and again but could not reach them. At last he walked away, saying, \"They are probably sour anyway.\"\n\n💡 Moral: It is easy to despise what you cannot have.\n🇺🇿 Och tulki baland uzumga sakraydi, lekin yetolmaydi. Ketayotib: \"Baribir nordon bo'lsa kerak\", deydi. Xulosa: yeta olmagan narsani kamsitish oson.\n\n📚 vine /vaɪn/ — tok; reach /riːtʃ/ — yetmoq; sour /ˈsaʊə/ — nordon"
     },
     {
-      "id": "n026", "type": "grammar", "level": "B1", "emoji": "📚",
+      "id": "n026",
+      "type": "grammar",
+      "level": "B1",
+      "emoji": "📚",
       "title": "Present Perfect",
       "text": "📚 GRAMMAR · Present Perfect\n\nhave/has + V3 → o'tmishdagi ish, hozir bilan bog'liq natija.\n\n💬 I have finished my homework. She has lived here for five years.\n🇺🇿 \"for\" muddatni bildiradi (for 5 years), \"since\" boshlanish nuqtasini (since 2020).\n\n📚 finish /ˈfɪnɪʃ/ — tugatmoq; result /rɪˈzʌlt/ — natija"
     },
     {
-      "id": "n027", "type": "science", "level": "B1", "emoji": "🍯",
+      "id": "n027",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🍯",
       "title": "Honey never spoils",
       "text": "🔬 SCIENCE FACT\n\nHoney never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old — and still edible!\n\n🇺🇿 Asal hech qachon buzilmaydi. Arxeologlar qadimgi Misr maqbaralaridan 3000 yildan oshiq asal topishgan — u hali ham yeyishga yaroqli!\n\n📚 So'zlar: spoil /spɔɪl/ — buzilmoq; tomb /tuːm/ — maqbara; edible /ˈedəbl/ — yeyish mumkin bo'lgan"
     },
     {
-      "id": "n028", "type": "history", "level": "B2", "emoji": "💻",
+      "id": "n028",
+      "type": "history",
+      "level": "B2",
+      "emoji": "💻",
       "title": "The first programmer",
       "text": "🏛 HISTORY FACT\n\nThe world's first computer programmer was Ada Lovelace, in the 1840s. She wrote an algorithm for Charles Babbage's mechanical machine, a century before modern computers existed.\n\n🇺🇿 Dunyodagi birinchi dasturchi — Ada Lovelace (1840-yillar). U Charlz Bebbijning mexanik mashinasi uchun algoritm yozgan — zamonaviy kompyuterlardan bir asr oldin.\n\n📚 So'zlar: algorithm /ˈælɡərɪðəm/ — algoritm; machine /məˈʃiːn/ — mashina"
     },
     {
-      "id": "n029", "type": "vocabulary", "level": "C1", "emoji": "🔤",
+      "id": "n029",
+      "type": "vocabulary",
+      "level": "C1",
+      "emoji": "🔤",
       "title": "Essay Connectors",
       "text": "🔤 IELTS WRITING CONNECTORS\n\n📌 furthermore /ˈfɜːðəmɔː/ — bundan tashqari\n📌 nevertheless /ˌnevəðəˈles/ — shunga qaramay\n📌 consequently /ˈkɒnsɪkwəntli/ — natijada\n\n💬 The plan was costly; nevertheless, it succeeded. Consequently, profits rose.\n🇺🇿 Reja qimmat edi; shunga qaramay, muvaffaqiyatli bo'ldi. Natijada foyda oshdi."
     },
     {
-      "id": "n030", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n030",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "The Golden Touch",
       "text": "📖 SHORT STORY · The Golden Touch\n\nKing Midas wished that everything he touched would turn to gold. At first he was happy, but then his food and even his daughter turned to gold. He begged to lose the gift.\n\n💡 Moral: Greed can destroy what we love most.\n🇺🇿 Shoh Midas teккan narsasi oltinga aylanishini so'raydi. Lekin ovqati, hatto qizi ham oltinga aylanadi. Xulosa: ochko'zlik eng qadrli narsani yo'q qilishi mumkin.\n\n📚 wish /wɪʃ/ — orzu qilmoq; greed /ɡriːd/ — ochko'zlik; destroy /dɪˈstrɔɪ/ — yo'q qilmoq"
     },
     {
-      "id": "n031", "type": "science", "level": "B2", "emoji": "🗼",
+      "id": "n031",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🗼",
       "title": "The Eiffel Tower grows",
       "text": "🔬 SCIENCE FACT\n\nThe Eiffel Tower can grow about 15 cm taller in summer. Heat makes the iron expand, so the metal structure rises slightly when it is hot.\n\n🇺🇿 Eyfel minorasi yozda ~15 sm balandroq bo'lishi mumkin. Issiqlik temirni kengaytiradi, shuning uchun metall tuzilma biroz ko'tariladi.\n\n📚 So'zlar: iron /ˈaɪən/ — temir; expand /ɪkˈspænd/ — kengaymoq; structure /ˈstrʌktʃə/ — tuzilma"
     },
     {
-      "id": "n032", "type": "test", "level": "B2", "emoji": "📝",
+      "id": "n032",
+      "type": "test",
+      "level": "B2",
+      "emoji": "📝",
       "title": "Synonym Quiz",
       "text": "📝 IELTS READING TEST\n\n\"The results were remarkable.\"\nremarkable = ?\n\nA) ordinary\nB) impressive\nC) boring\nD) confusing\n\n💭 Javob 👇",
       "answer": "✅ To'g'ri javob: B) impressive\n\n📖 remarkable = ajoyib, e'tiborga loyiq (impressive). Reading'da sinonimlarni bilish juda muhim."
     },
     {
-      "id": "n033", "type": "history", "level": "B1", "emoji": "🏺",
+      "id": "n033",
+      "type": "history",
+      "level": "B1",
+      "emoji": "🏺",
       "title": "Bukhara — Silk Road jewel",
       "text": "🏛 HISTORY · Uzbekistan\n\nBukhara has more than 2,000 years of history and was a major centre of learning on the Silk Road. Its old city is a UNESCO World Heritage Site with hundreds of preserved monuments.\n\n🇺🇿 Buxoro 2000 yildan ortiq tarixga ega va Ipak yo'lidagi yirik ilm markazi bo'lgan. Eski shahri YuNESKO Jahon merosi ro'yxatida, yuzlab yodgorliklari saqlangan.\n\n📚 So'zlar: heritage /ˈherɪtɪdʒ/ — meros; preserve /prɪˈzɜːv/ — saqlamoq"
     },
     {
-      "id": "n034", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n034",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Time Words",
       "text": "🔤 VOCABULARY · Time\n\n📌 rarely /ˈreəli/ — kamdan-kam\n📌 frequently /ˈfriːkwəntli/ — tez-tez\n📌 eventually /ɪˈventʃuəli/ — oxir-oqibat\n\n💬 I rarely watched films in English before, but I do it frequently now, and eventually I understood them easily.\n🇺🇿 Avval kamdan-kam ingliz tilida film ko'rardim, endi tez-tez ko'raman va oxir-oqibat ularni oson tushunadigan bo'ldim."
     },
     {
-      "id": "n035", "type": "science", "level": "B1", "emoji": "🐝",
+      "id": "n035",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🐝",
       "title": "The waggle dance",
       "text": "🔬 SCIENCE FACT\n\nHoneybees \"talk\" by dancing. A bee performs a special \"waggle dance\" to tell other bees the direction and distance to flowers. This discovery won a Nobel Prize.\n\n🇺🇿 Asalarilar raqs orqali \"gaplashadi\". Ari maxsus \"waggle\" raqsi bilan gullarning yo'nalishi va masofasini boshqalarga aytadi. Bu kashfiyot Nobel mukofotini olgan.\n\n📚 So'zlar: direction /dəˈrekʃn/ — yo'nalish; distance /ˈdɪstəns/ — masofa; discovery /dɪˈskʌvəri/ — kashfiyot"
     },
     {
-      "id": "n036", "type": "story", "level": "B2", "emoji": "📖",
+      "id": "n036",
+      "type": "story",
+      "level": "B2",
+      "emoji": "📖",
       "title": "The Two Travellers",
       "text": "📖 SHORT STORY · The Two Travellers and the Bear\n\nTwo friends were walking when a bear appeared. One climbed a tree; the other lay still and pretended to be dead. The bear sniffed him and left. \"What did it whisper?\" asked the first. \"It said: never trust a friend who leaves you in danger.\"\n\n💡 Moral: True friends stay with you in trouble.\n🇺🇿 Ayiq kelганда biri daraxtga chiqdi, ikkinchisi o'likka soxta o'xshatdi. Xulosa: haqiqiy do'st qiyinchilikda tashlab ketmaydi.\n\n📚 pretend /prɪˈtend/ — o'zini ... qilib ko'rsatmoq; whisper /ˈwɪspə/ — pichirlamoq; trust /trʌst/ — ishonmoq"
     },
     {
-      "id": "n037", "type": "grammar", "level": "B2", "emoji": "📚",
+      "id": "n037",
+      "type": "grammar",
+      "level": "B2",
+      "emoji": "📚",
       "title": "Passive Voice",
       "text": "📚 GRAMMAR · Passive Voice\n\nbe + V3 → ish kimga/nimaga qilingani muhim bo'lganda.\n\n💬 English is spoken in many countries. The bridge was built in 1990.\n🇺🇿 IELTS Writing'da rasmiy uslub uchun foydali: \"The data was collected from 500 people.\"\n\n📚 spoken /ˈspəʊkən/ — gapiriladigan; built /bɪlt/ — qurilgan"
     },
     {
-      "id": "n038", "type": "science", "level": "B2", "emoji": "🧠",
+      "id": "n038",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🧠",
       "title": "Your brain & languages",
       "text": "🔬 SCIENCE FACT\n\nLearning a second language strengthens the brain. Research shows that bilingual people often have better memory and focus, and may delay age-related memory decline.\n\n🇺🇿 Ikkinchi tilni o'rganish miyani kuchaytiradi. Tadqiqotlarga ko'ra, ikki tilli odamlarda xotira va diqqat ko'pincha kuchliroq, yoshga bog'liq xotira pasayishi kechikishi mumkin.\n\n📚 So'zlar: bilingual /baɪˈlɪŋɡwəl/ — ikki tilli; memory /ˈmeməri/ — xotira; decline /dɪˈklaɪn/ — pasayish"
     },
     {
-      "id": "n039", "type": "idiom", "level": "B2", "emoji": "🗣",
+      "id": "n039",
+      "type": "idiom",
+      "level": "B2",
+      "emoji": "🗣",
       "title": "Idiom: Hit the books",
       "text": "🗣 IDIOM OF THE DAY\n\n📚 \"hit the books\" — qattiq o'qishga kirishmoq\n\n💬 I have an exam tomorrow, so I need to hit the books tonight.\n🇺🇿 Ma'nosi \"kitobni urmoq\" emas — \"jiddiy o'qishga kirishmoq\". Imtihon oldidan ishlatiladi.\n\n📚 exam /ɪɡˈzæm/ — imtihon; tonight /təˈnaɪt/ — bugun kechqurun"
     },
     {
-      "id": "n040", "type": "history", "level": "B2", "emoji": "🔥",
+      "id": "n040",
+      "type": "history",
+      "level": "B2",
+      "emoji": "🔥",
       "title": "Olympic Games origin",
       "text": "🏛 HISTORY FACT\n\nThe Olympic Games began in ancient Greece in 776 BC, in the town of Olympia. They were held every four years in honour of the god Zeus — a tradition that inspired the modern Olympics.\n\n🇺🇿 Olimpiada o'yinlari qadimgi Yunonistonda, mil. av. 776-yilda Olimpiya shahrida boshlangan. Har to'rt yilda Zevs xudosi sharafiga o'tkazilgan — bu an'ana zamonaviy Olimpiadaga ilhom bergan.\n\n📚 So'zlar: honour /ˈɒnə/ — sharaf; tradition /trəˈdɪʃn/ — an'ana; inspire /ɪnˈspaɪə/ — ilhomlantirmoq"
     },
     {
-      "id": "n041", "type": "history", "level": "B2", "emoji": "➗",
+      "id": "n041",
+      "type": "history",
+      "level": "B2",
+      "emoji": "➗",
       "title": "Al-Khwarizmi & algebra",
       "text": "🏛 HISTORY · Uzbekistan\n\nAl-Khwarizmi (around 780-850), a scholar from Khwarazm, is called the father of algebra. The word 'algebra' comes from his book title, and the word 'algorithm' comes from his name.\n\n🇺🇿 Xorazmlik olim Al-Xorazmiy (~780-850) algebra otasi hisoblanadi. 'Algebra' so'zi uning kitobi nomidan, 'algoritm' so'zi esa uning ismidan kelib chiqqan.\n\n📚 So'zlar: scholar /ˈskɒlə/ — olim; equation /ɪˈkweɪʒn/ — tenglama"
     },
     {
-      "id": "n042", "type": "science", "level": "A2", "emoji": "🦴",
+      "id": "n042",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🦴",
       "title": "Babies have more bones",
       "text": "🔬 SCIENCE FACT\n\nBabies are born with about 300 bones, but adults have only 206. As we grow, some bones fuse together.\n\n🇺🇿 Chaqaloqlar ~300 ta suyak bilan tug'iladi, lekin kattalarda atigi 206 ta bo'ladi. O'sish davomida ba'zi suyaklar birlashib ketadi.\n\n📚 So'zlar: bone /bəʊn/ — suyak; fuse /fjuːz/ — birlashmoq; grow /ɡrəʊ/ — o'smoq"
     },
     {
-      "id": "n043", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n043",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Crow and the Pitcher",
       "text": "📖 SHORT STORY · The Crow and the Pitcher\n\nA thirsty crow found a pitcher with a little water at the bottom. Its beak could not reach it. So the clever crow dropped small stones inside, one by one, until the water rose to the top and it could drink.\n\n💡 Moral: Little by little, cleverness solves big problems.\n🇺🇿 Chanqagan qarg'a tubida ozgina suvi bor ko'zani topadi. Aql bilan toshlarni birma-bir tashlab, suvni ko'taradi va ichadi. Xulosa: aql-zakovat katta muammoni ham yechadi.\n\n📚 thirsty /ˈθɜːsti/ — chanqagan; beak /biːk/ — tumshuq; clever /ˈklevə/ — aqlli"
     },
     {
-      "id": "n044", "type": "science", "level": "B1", "emoji": "🌍",
+      "id": "n044",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🌍",
       "title": "Antarctica is a desert",
       "text": "🔬 SCIENCE FACT\n\nThe largest desert on Earth is not hot — it is Antarctica. A desert is defined by very low rainfall, not by heat, and Antarctica is extremely dry.\n\n🇺🇿 Yerdagi eng katta cho'l issiq emas — bu Antarktida. Cho'l issiqlik bilan emas, juda kam yog'in bilan belgilanadi, Antarktida esa o'ta quruq.\n\n📚 So'zlar: desert /ˈdezət/ — cho'l; rainfall /ˈreɪnfɔːl/ — yog'in; dry /draɪ/ — quruq"
     },
     {
-      "id": "n045", "type": "vocabulary", "level": "B2", "emoji": "🔤",
+      "id": "n045",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🔤",
       "title": "Describe Change",
       "text": "🔤 IELTS VOCABULARY · Change\n\n📌 rise /raɪz/ — ko'tarilmoq\n📌 drop /drɒp/ — tushmoq\n📌 remain stable — barqaror qolmoq\n\n💬 Sales rose sharply, then dropped, and finally remained stable.\n🇺🇿 Sotuvlar keskin ko'tarildi, keyin tushdi va nihoyat barqaror qoldi."
     },
     {
-      "id": "n046", "type": "history", "level": "B2", "emoji": "🩺",
+      "id": "n046",
+      "type": "history",
+      "level": "B2",
+      "emoji": "🩺",
       "title": "Ibn Sina (Avicenna)",
       "text": "🏛 HISTORY · Uzbekistan\n\nIbn Sina (Avicenna, 980-1037), born near Bukhara, was one of history's greatest thinkers. His book 'The Canon of Medicine' was used in European universities for over 600 years.\n\n🇺🇿 Buxoro yaqinida tug'ilgan Ibn Sino (980-1037) tarixning buyuk allomalaridan biri. Uning 'Tib qonunlari' asari Yevropa universitetlarida 600 yildan ortiq o'qitilgan.\n\n📚 So'zlar: medicine /ˈmedsn/ — tibbiyot; thinker /ˈθɪŋkə/ — mutafakkir"
     },
     {
-      "id": "n047", "type": "idiom", "level": "B1", "emoji": "🗣",
+      "id": "n047",
+      "type": "idiom",
+      "level": "B1",
+      "emoji": "🗣",
       "title": "Idiom: Break a leg",
       "text": "🗣 IDIOM OF THE DAY\n\n🍀 'break a leg' — omad tilayman (sahna/imtihon oldidan)\n\n💬 You have a speaking test today? Break a leg!\n🇺🇿 So'zma-so'z 'oyog'ingni sindir' emas — ma'nosi 'omad tilayman'. Aktyorlar va talabalarga aytiladi.\n\n📚 luck /lʌk/ — omad; stage /steɪdʒ/ — sahna"
     },
     {
-      "id": "n048", "type": "science", "level": "B1", "emoji": "🔇",
+      "id": "n048",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🔇",
       "title": "No sound in space",
       "text": "🔬 SCIENCE FACT\n\nThere is no sound in space. Sound needs a medium like air or water to travel, but space is a vacuum — almost empty.\n\n🇺🇿 Koinotda ovoz yo'q. Ovoz tarqalishi uchun havo yoki suv kabi muhit kerak, koinot esa vakuum — deyarli bo'sh.\n\n📚 So'zlar: sound /saʊnd/ — ovoz; vacuum /ˈvækjuːm/ — vakuum; empty /ˈempti/ — bo'sh"
     },
     {
-      "id": "n049", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n049",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "The North Wind and the Sun",
       "text": "📖 SHORT STORY · The North Wind and the Sun\n\nThe wind and the sun argued who was stronger. They tried to make a traveller remove his coat. The wind blew hard, but the man held his coat tighter. Then the sun shone warmly, and the man took it off himself.\n\n💡 Moral: Kindness is stronger than force.\n🇺🇿 Shamol va quyosh kim kuchli deb bahslashadi. Shamol qancha ursa, yo'lovchi paltosini mahkam ushlaydi; quyosh iliq nur sochganda, u o'zi yechadi. Xulosa: mehribonlik kuchdan kuchli.\n\n📚 argue /ˈɑːɡjuː/ — bahslashmoq; blow /bləʊ/ — esmoq; force /fɔːs/ — kuch, zo'rlik"
     },
     {
-      "id": "n050", "type": "science", "level": "B2", "emoji": "🪐",
+      "id": "n050",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🪐",
       "title": "Saturn could float",
       "text": "🔬 SCIENCE FACT\n\nSaturn is so light for its size that it would float in water. Its average density is lower than water — it is mostly gas.\n\n🇺🇿 Saturn hajmiga nisbatan shunchalik yengilki, u suvda suzib qolardi. Uning o'rtacha zichligi suvdan past — u asosan gazdan iborat.\n\n📚 So'zlar: float /fləʊt/ — suzmoq; density /ˈdensəti/ — zichlik; gas /ɡæs/ — gaz"
     },
     {
-      "id": "n051", "type": "history", "level": "B1", "emoji": "🔭",
+      "id": "n051",
+      "type": "history",
+      "level": "B1",
+      "emoji": "🔭",
       "title": "Ulugh Beg the astronomer",
       "text": "🏛 HISTORY · Uzbekistan\n\nUlugh Beg (1394-1449), ruler of Samarkand, was also a great astronomer. He built a huge observatory and measured the stars so accurately that his star catalogue was used for centuries.\n\n🇺🇿 Samarqand hukmdori Ulug'bek (1394-1449) buyuk astronom ham edi. U ulkan rasadxona qurib, yulduzlarni shunchalik aniq o'lchaganki, uning yulduzlar jadvalidan asrlar davomida foydalanilgan.\n\n📚 So'zlar: astronomer /əˈstrɒnəmə/ — astronom; observatory /əbˈzɜːvətri/ — rasadxona; accurate /ˈækjərət/ — aniq"
     },
     {
-      "id": "n052", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n052",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Opinion Phrases",
       "text": "🔤 SPEAKING PHRASES · Opinion\n\n📌 In my opinion — mening fikrimcha\n📌 I believe that — menimcha\n📌 It seems to me — menga shunday tuyuladi\n\n💬 In my opinion, reading every day is the best way to learn.\n🇺🇿 IELTS Speaking'da fikr bildirishda bu iboralar tabiiy eshitiladi."
     },
     {
-      "id": "n053", "type": "science", "level": "A2", "emoji": "🐆",
+      "id": "n053",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🐆",
       "title": "The fastest land animal",
       "text": "🔬 SCIENCE FACT\n\nThe cheetah is the fastest land animal. It can run up to about 110 km/h in short bursts to catch its prey.\n\n🇺🇿 Gepard quruqlikdagi eng tez hayvon. U o'ljasini tutish uchun qisqa masofada soatiga ~110 km tezlikda yugura oladi.\n\n📚 So'zlar: fast /fɑːst/ — tez; prey /preɪ/ — o'lja; catch /kætʃ/ — tutmoq"
     },
     {
-      "id": "n054", "type": "grammar", "level": "A2", "emoji": "📚",
+      "id": "n054",
+      "type": "grammar",
+      "level": "A2",
+      "emoji": "📚",
       "title": "a / an / the",
       "text": "📚 GRAMMAR · Articles\n\n'a/an' — noaniq (birinchi marta): a book, an apple.\n'the' — aniq (ma'lum narsa): the book on my desk.\n\n💬 I saw a dog. The dog was friendly.\n🇺🇿 'a' undosh tovushdan oldin, 'an' unli tovushdan oldin: a car, an hour.\n\n📚 noun /naʊn/ — ot; vowel /ˈvaʊəl/ — unli"
     },
     {
-      "id": "n055", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n055",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Goose and Golden Eggs",
       "text": "📖 SHORT STORY · The Goose with Golden Eggs\n\nA farmer had a goose that laid one golden egg every day. Greedy for more, he cut the goose open to get all the gold at once — but found nothing, and lost the goose.\n\n💡 Moral: Greed often destroys the source of good fortune.\n🇺🇿 Dehqonning g'ozi har kuni bitta oltin tuxum qo'yardi. Ochko'zlik qilib, hammasini birdan olmoqchi bo'lib g'ozni so'yadi va hammasidan ayriladi. Xulosa: ochko'zlik baxt manbasini yo'q qiladi.\n\n📚 goose /ɡuːs/ — g'oz; greedy /ˈɡriːdi/ — ochko'z; fortune /ˈfɔːtʃuːn/ — baxt, boylik"
     },
     {
-      "id": "n056", "type": "science", "level": "B1", "emoji": "🌙",
+      "id": "n056",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🌙",
       "title": "The Moon drifts away",
       "text": "🔬 SCIENCE FACT\n\nThe Moon is slowly moving away from Earth — about 3.8 cm every year. That is roughly the speed at which your fingernails grow.\n\n🇺🇿 Oy Yerdan sekin uzoqlashmoqda — har yili ~3.8 sm. Bu taxminan tirnoq o'sish tezligiga teng.\n\n📚 So'zlar: move away — uzoqlashmoq; roughly /ˈrʌfli/ — taxminan; grow /ɡrəʊ/ — o'smoq"
     },
     {
-      "id": "n057", "type": "history", "level": "B1", "emoji": "📜",
+      "id": "n057",
+      "type": "history",
+      "level": "B1",
+      "emoji": "📜",
       "title": "Paper from China",
       "text": "🏛 HISTORY FACT\n\nPaper was invented in China around 105 AD by Cai Lun. Before paper, people wrote on silk, bamboo, or clay — much heavier and more expensive.\n\n🇺🇿 Qog'oz Xitoyda ~105-yilda Tsay Lun tomonidan ixtiro qilingan. Undan oldin odamlar ipak, bambuk yoki loyga yozgan — ancha og'ir va qimmat.\n\n📚 So'zlar: invent /ɪnˈvent/ — ixtiro qilmoq; expensive /ɪkˈspensɪv/ — qimmat"
     },
     {
-      "id": "n058", "type": "vocabulary", "level": "C1", "emoji": "🔤",
+      "id": "n058",
+      "type": "vocabulary",
+      "level": "C1",
+      "emoji": "🔤",
       "title": "Academic Verbs",
       "text": "🔤 ACADEMIC VERBS · C1\n\n📌 demonstrate /ˈdemənstreɪt/ — namoyish etmoq, ko'rsatmoq\n📌 indicate /ˈɪndɪkeɪt/ — bildirmoq, ko'rsatib turmoq\n📌 enhance /ɪnˈhɑːns/ — kuchaytirmoq, yaxshilamoq\n\n💬 The study demonstrates that reading enhances vocabulary and indicates clear progress.\n🇺🇿 Tadqiqot o'qish so'z boyligini kuchaytirishini ko'rsatadi va aniq o'sishni bildiradi."
     },
     {
-      "id": "n059", "type": "science", "level": "A2", "emoji": "🦇",
+      "id": "n059",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🦇",
       "title": "Bats can truly fly",
       "text": "🔬 SCIENCE FACT\n\nBats are the only mammals that can truly fly. Other 'flying' animals, like flying squirrels, only glide through the air.\n\n🇺🇿 Ko'rshapalaklar haqiqatan ucha oladigan yagona sutemizuvchilardir. Boshqa 'uchuvchi' hayvonlar, masalan uchuvchi olmaxonlar, faqat havoda sirpanadi.\n\n📚 So'zlar: mammal /ˈmæml/ — sutemizuvchi; fly /flaɪ/ — uchmoq; glide /ɡlaɪd/ — sirpanmoq"
     },
     {
-      "id": "n060", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n060",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "The Dog and the Bone",
       "text": "📖 SHORT STORY · The Dog and Its Reflection\n\nA dog carried a bone across a bridge. In the water he saw his own reflection and thought it was another dog with a bigger bone. He barked to grab it — and dropped his own bone into the river.\n\n💡 Moral: Be content; greed can cost you what you already have.\n🇺🇿 It suyakni ko'tarib ko'prikdan o'tar edi. Suvda o'z aksini ko'rib, boshqa it deb o'yladi va tortib olmoqchi bo'lib o'z suyagini suvga tushirib yubordi. Xulosa: ochko'zlik boringni ham yo'qotadi.\n\n📚 bone /bəʊn/ — suyak; reflection /rɪˈflekʃn/ — aks; content /kənˈtent/ — qanoatli"
     },
     {
-      "id": "n061", "type": "science", "level": "B2", "emoji": "🧬",
+      "id": "n061",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🧬",
       "title": "Bananas share our DNA",
       "text": "🔬 SCIENCE FACT\n\nHumans share about 60% of their DNA with bananas. All living things use the same basic genetic code, so we have many genes in common with plants.\n\n🇺🇿 Insonlar DNK'sining ~60% bananlar bilan umumiy. Barcha tirik mavjudotlar bir xil genetik kodga ega, shuning uchun bizda o'simliklar bilan ham ko'p umumiy genlar bor.\n\n📚 So'zlar: gene /dʒiːn/ — gen; common /ˈkɒmən/ — umumiy; living /ˈlɪvɪŋ/ — tirik"
     },
     {
-      "id": "n062", "type": "history", "level": "B1", "emoji": "✈️",
+      "id": "n062",
+      "type": "history",
+      "level": "B1",
+      "emoji": "✈️",
       "title": "First powered flight",
       "text": "🏛 HISTORY FACT\n\nThe Wright brothers made the first powered flight in 1903. It lasted only 12 seconds and covered about 37 metres — shorter than the wingspan of a modern jet.\n\n🇺🇿 Rayt aka-ukalari 1903-yilda birinchi motorli parvozni amalga oshirgan. U atigi 12 soniya davom etib, ~37 metr uchgan — bu zamonaviy samolyot qanotidan ham qisqa.\n\n📚 So'zlar: flight /flaɪt/ — parvoz; last /lɑːst/ — davom etmoq; cover /ˈkʌvə/ — bosib o'tmoq"
     },
     {
-      "id": "n063", "type": "idiom", "level": "B1", "emoji": "🗣",
+      "id": "n063",
+      "type": "idiom",
+      "level": "B1",
+      "emoji": "🗣",
       "title": "Idiom: Under the weather",
       "text": "🗣 IDIOM OF THE DAY\n\n🤒 'under the weather' — o'zini yomon his qilmoq, betobroq\n\n💬 I can't come today; I'm feeling under the weather.\n🇺🇿 So'zma-so'z 'ob-havo ostida' emas — ma'nosi 'kasalroq, mazasi yo'q'.\n\n📚 ill /ɪl/ — kasal; tired /ˈtaɪəd/ — charchagan"
     },
     {
-      "id": "n064", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n064",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Linking Words",
       "text": "🔤 LINKING WORDS\n\n📌 however /haʊˈevə/ — biroq\n📌 because /bɪˈkɒz/ — chunki\n📌 therefore /ˈðeəfɔː/ — shuning uchun\n\n💬 I studied hard; therefore, I passed. The test was hard, however, I stayed calm.\n🇺🇿 Bu bog'lovchilar gaplarni mantiqiy bog'laydi va yozma ishni yaxshilaydi."
     },
     {
-      "id": "n065", "type": "science", "level": "B1", "emoji": "🌊",
+      "id": "n065",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🌊",
       "title": "Most of Earth is water",
       "text": "🔬 SCIENCE FACT\n\nAbout 71% of Earth's surface is covered by water, but over 96% of all that water is salty ocean. Only a tiny part is fresh water we can drink.\n\n🇺🇿 Yer yuzasining ~71% suv bilan qoplangan, lekin bu suvning 96% dan ortig'i sho'r okean. Faqat juda oz qismi ichish mumkin bo'lgan chuchuk suv.\n\n📚 So'zlar: surface /ˈsɜːfɪs/ — yuza; salty /ˈsɔːlti/ — sho'r; fresh /freʃ/ — chuchuk"
     },
     {
-      "id": "n066", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n066",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Bundle of Sticks",
       "text": "📖 SHORT STORY · The Bundle of Sticks\n\nAn old man gave each son a single stick to break — easy. Then he tied many sticks together and asked them to break the bundle. No one could. 'Together,' he said, 'you cannot be broken.'\n\n💡 Moral: Unity is strength.\n🇺🇿 Chol o'g'illariga bittadan tayoq beradi — oson sinadi. Keyin bog'lamni berganda, hech kim sindirolmaydi. 'Birlashsangiz, sizni hech kim sindirolmaydi', deydi. Xulosa: birlik — kuch.\n\n📚 stick /stɪk/ — tayoq; bundle /ˈbʌndl/ — bog'lam; unity /ˈjuːnəti/ — birlik"
     },
     {
-      "id": "n067", "type": "science", "level": "A2", "emoji": "🐧",
+      "id": "n067",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🐧",
       "title": "Penguins live in the south",
       "text": "🔬 SCIENCE FACT\n\nWild penguins live almost only in the Southern Hemisphere. You will not find wild penguins at the North Pole — polar bears live there instead.\n\n🇺🇿 Yovvoyi pingvinlar deyarli faqat Janubiy yarimsharda yashaydi. Shimoliy qutbda yovvoyi pingvin yo'q — u yerda oq ayiqlar yashaydi.\n\n📚 So'zlar: wild /waɪld/ — yovvoyi; pole /pəʊl/ — qutb; instead /ɪnˈsted/ — o'rniga"
     },
     {
-      "id": "n068", "type": "history", "level": "B2", "emoji": "🚀",
+      "id": "n068",
+      "type": "history",
+      "level": "B2",
+      "emoji": "🚀",
       "title": "First human in space",
       "text": "🏛 HISTORY FACT\n\nYuri Gagarin became the first human in space on 12 April 1961. His flight around the Earth lasted just 108 minutes.\n\n🇺🇿 Yuriy Gagarin 1961-yil 12-aprelda koinotga uchgan birinchi inson bo'ldi. Uning Yer atrofidagi parvozi atigi 108 daqiqa davom etgan.\n\n📚 So'zlar: space /speɪs/ — koinot; flight /flaɪt/ — parvoz; orbit /ˈɔːbɪt/ — orbita"
     },
     {
-      "id": "n069", "type": "vocabulary", "level": "B2", "emoji": "🔤",
+      "id": "n069",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🔤",
       "title": "Strong Adjectives",
       "text": "🔤 STRONG ADJECTIVES\n\n📌 exhausted /ɪɡˈzɔːstɪd/ — juda charchagan (very tired)\n📌 delighted /dɪˈlaɪtɪd/ — juda xursand (very happy)\n📌 terrified /ˈterɪfaɪd/ — juda qo'rqqan (very scared)\n\n💬 After the exam I was exhausted, but delighted with my score.\n🇺🇿 Kuchli sifatlar 'very + oddiy sifat' o'rniga ishlatiladi va nutqni boyitadi."
     },
     {
-      "id": "n070", "type": "science", "level": "B2", "emoji": "💎",
+      "id": "n070",
+      "type": "science",
+      "level": "B2",
+      "emoji": "💎",
       "title": "Diamonds are carbon",
       "text": "🔬 SCIENCE FACT\n\nDiamonds and pencil lead are both made of pure carbon. The only difference is how the atoms are arranged — that is why one is the hardest natural material and the other is soft.\n\n🇺🇿 Olmos ham, qalam grafiti ham sof uglerod (carbon). Farqi faqat atomlarning joylashuvida — shuning uchun biri eng qattiq, ikkinchisi yumshoq.\n\n📚 So'zlar: carbon /ˈkɑːbən/ — uglerod; atom /ˈætəm/ — atom; arrange /əˈreɪndʒ/ — joylashtirmoq"
     },
     {
-      "id": "n071", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n071",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "The Ant and the Dove",
       "text": "📖 SHORT STORY · The Ant and the Dove\n\nA dove saw an ant drowning in a river and dropped a leaf for it to climb on. Later, a hunter aimed at the dove. The grateful ant bit his foot, the hunter missed, and the dove flew away safely.\n\n💡 Moral: One good turn deserves another.\n🇺🇿 Kaptar cho'kayotgan chumoliga barg tashlab qutqaradi. Keyin ovchi kaptarga mo'ljal olganda, chumoli uni chaqib, kaptar qutuladi. Xulosa: yaxshilik yaxshilik bilan qaytadi.\n\n📚 drown /draʊn/ — cho'kmoq; grateful /ˈɡreɪtfl/ — minnatdor; aim /eɪm/ — mo'ljal olmoq"
     },
     {
-      "id": "n072", "type": "science", "level": "B1", "emoji": "❤️",
+      "id": "n072",
+      "type": "science",
+      "level": "B1",
+      "emoji": "❤️",
       "title": "Your heart, every day",
       "text": "🔬 SCIENCE FACT\n\nYour heart beats around 100,000 times every day, pumping blood through about 100,000 km of blood vessels — enough to circle the Earth more than twice.\n\n🇺🇿 Yuragingiz har kuni ~100,000 marta uradi va qonni ~100,000 km qon tomirlari orqali haydaydi — bu Yerni ikki martadan ko'proq o'rab oladi.\n\n📚 So'zlar: beat /biːt/ — urmoq; blood vessel /ˈvesl/ — qon tomir; circle /ˈsɜːkl/ — o'rab olmoq"
     },
     {
-      "id": "n073", "type": "history", "level": "B1", "emoji": "🧭",
+      "id": "n073",
+      "type": "history",
+      "level": "B1",
+      "emoji": "🧭",
       "title": "Inventions from China",
       "text": "🏛 HISTORY FACT\n\nFour great inventions came from ancient China: paper, printing, gunpowder, and the compass. They changed the whole world.\n\n🇺🇿 Qadimgi Xitoydan to'rtta buyuk ixtiro chiqqan: qog'oz, bosmaxona, porox va kompas. Ular butun dunyoni o'zgartirgan.\n\n📚 So'zlar: invention /ɪnˈvenʃn/ — ixtiro; printing /ˈprɪntɪŋ/ — bosmaxona; compass /ˈkʌmpəs/ — kompas"
     },
     {
-      "id": "n074", "type": "idiom", "level": "B2", "emoji": "🗣",
+      "id": "n074",
+      "type": "idiom",
+      "level": "B2",
+      "emoji": "🗣",
       "title": "Idiom: Bite the bullet",
       "text": "🗣 IDIOM OF THE DAY\n\n😬 'bite the bullet' — qiyin ishga jur'at qilib kirishmoq, chidamoq\n\n💬 I was afraid of speaking English, but I bit the bullet and joined the club.\n🇺🇿 Ma'nosi 'noxush, lekin zarur ishni qat'iyat bilan bajarmoq'.\n\n📚 brave /breɪv/ — jasur; decision /dɪˈsɪʒn/ — qaror"
     },
     {
-      "id": "n075", "type": "science", "level": "B2", "emoji": "🌡",
+      "id": "n075",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🌡",
       "title": "Hottest planet",
       "text": "🔬 SCIENCE FACT\n\nVenus is the hottest planet, not Mercury — even though Mercury is closer to the Sun. Venus has a thick atmosphere that traps heat, reaching about 465°C.\n\n🇺🇿 Eng issiq sayyora Merkuriy emas, Venera — garchi Merkuriy Quyoshga yaqinroq bo'lsa-da. Venerada issiqlikni ushlab qoluvchi qalin atmosfera bor, harorat ~465°C ga yetadi.\n\n📚 So'zlar: planet /ˈplænɪt/ — sayyora; atmosphere /ˈætməsfɪə/ — atmosfera; trap /træp/ — ushlab qolmoq"
     },
     {
-      "id": "n076", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n076",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Travel Words",
       "text": "🔤 VOCABULARY · Travel\n\n📌 journey /ˈdʒɜːni/ — sayohat, yo'l\n📌 luggage /ˈlʌɡɪdʒ/ — yuk, chamadon\n📌 abroad /əˈbrɔːd/ — chet elda\n\n💬 My journey abroad was long, but I packed my luggage well.\n🇺🇿 'travel' umumiy so'z, 'journey' bitta yo'l/sayohat, 'trip' qisqa borib-kelish."
     },
     {
-      "id": "n077", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n077",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "Town Mouse, Country Mouse",
       "text": "📖 SHORT STORY · The Town Mouse and the Country Mouse\n\nA town mouse visited his country cousin and laughed at the simple food. He invited him to the city's feasts — but there, cats and dangers never stopped. The country mouse went home, preferring peace to luxury.\n\n💡 Moral: A simple, safe life is better than a rich, fearful one.\n🇺🇿 Shahar sichqoni qishloqdagi jo'rasini oddiy ovqat uchun mazax qiladi. Lekin shaharda mushuk va xavf to'xtamaydi. Qishloq sichqoni tinchlikni afzal ko'rib uyiga qaytadi.\n\n📚 feast /fiːst/ — ziyofat; danger /ˈdeɪndʒə/ — xavf; peace /piːs/ — tinchlik"
     },
     {
-      "id": "n078", "type": "science", "level": "A2", "emoji": "🐌",
+      "id": "n078",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🐌",
       "title": "Snails and sleep",
       "text": "🔬 SCIENCE FACT\n\nSome snails can sleep for up to three years when the weather is too dry or cold, slowing their bodies down to survive.\n\n🇺🇿 Ba'zi shilliqqurtlar ob-havo juda quruq yoki sovuq bo'lganda uch yilgacha uxlay oladi — tanasini sekinlashtirib, omon qoladi.\n\n📚 So'zlar: snail /sneɪl/ — shilliqqurt; survive /səˈvaɪv/ — omon qolmoq; weather /ˈweðə/ — ob-havo"
     },
     {
-      "id": "n079", "type": "grammar", "level": "B1", "emoji": "📚",
+      "id": "n079",
+      "type": "grammar",
+      "level": "B1",
+      "emoji": "📚",
       "title": "Comparatives",
       "text": "📚 GRAMMAR · Comparatives\n\nQisqa sifat + -er: big → bigger. Uzun sifat: more + sifat: more useful.\n\n💬 English is easier than I thought, but more useful than any other skill.\n🇺🇿 'than' taqqoslashda ishlatiladi. Istisno: good → better, bad → worse.\n\n📚 compare /kəmˈpeə/ — taqqoslamoq; easy /ˈiːzi/ — oson"
     },
     {
-      "id": "n080", "type": "history", "level": "B2", "emoji": "🏯",
+      "id": "n080",
+      "type": "history",
+      "level": "B2",
+      "emoji": "🏯",
       "title": "Registan of Samarkand",
       "text": "🏛 HISTORY · Uzbekistan\n\nThe Registan in Samarkand was the heart of the medieval city — a public square framed by three grand madrasahs (Islamic schools). Today it is a UNESCO World Heritage Site and a symbol of Uzbekistan.\n\n🇺🇿 Samarqanddagi Registon o'rta asr shaharning markazi bo'lgan — uchta ulug'vor madrasa bilan o'ralgan maydon. Bugun u YuNESKO merosi va O'zbekiston ramzi.\n\n📚 So'zlar: square /skweə/ — maydon; symbol /ˈsɪmbl/ — ramz; heritage /ˈherɪtɪdʒ/ — meros"
     },
     {
-      "id": "n081", "type": "vocabulary", "level": "B2", "emoji": "🔤",
+      "id": "n081",
+      "type": "vocabulary",
+      "level": "B2",
+      "emoji": "🔤",
       "title": "Common Collocations",
       "text": "🔤 COLLOCATIONS\n\n📌 make a decision — qaror qabul qilmoq\n📌 take a break — tanaffus qilmoq\n📌 pay attention — e'tibor bermoq\n\n💬 Pay attention in class, take a short break, then make a decision calmly.\n🇺🇿 Inglizchada ba'zi fe'l+ot juftliklari doim birga ishlatiladi (collocations) — ularni birga yodlang."
     },
     {
-      "id": "n082", "type": "science", "level": "B1", "emoji": "🧠",
+      "id": "n082",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🧠",
       "title": "Your brain at night",
       "text": "🔬 SCIENCE FACT\n\nYour brain is very active while you sleep. During sleep it organises memories and information from the day — which is why good sleep helps you learn and remember.\n\n🇺🇿 Miya uxlayotganda ham juda faol. U kun davomidagi xotira va ma'lumotlarni tartibga soladi — shuning uchun yaxshi uyqu o'rganish va eslab qolishga yordam beradi.\n\n📚 So'zlar: active /ˈæktɪv/ — faol; organise /ˈɔːɡənaɪz/ — tartiblamoq; remember /rɪˈmembə/ — eslamoq"
     },
     {
-      "id": "n083", "type": "idiom", "level": "B2", "emoji": "🗣",
+      "id": "n083",
+      "type": "idiom",
+      "level": "B2",
+      "emoji": "🗣",
       "title": "Idiom: Spill the beans",
       "text": "🗣 IDIOM OF THE DAY\n\n🫘 'spill the beans' — sirni oshkor qilmoq\n\n💬 Come on, spill the beans — what happened at the meeting?\n🇺🇿 So'zma-so'z 'loviyani to'kmoq' emas — ma'nosi 'sirni aytib qo'ymoq'.\n\n📚 secret /ˈsiːkrət/ — sir; reveal /rɪˈviːl/ — oshkor qilmoq"
     },
     {
-      "id": "n084", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n084",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "Belling the Cat",
       "text": "📖 SHORT STORY · Belling the Cat\n\nThe mice wanted to know when the cat was coming, so they decided to tie a bell around its neck. It was a great plan — until one old mouse asked, 'But who will put the bell on the cat?'\n\n💡 Moral: It is easy to suggest a plan; doing it is the hard part.\n🇺🇿 Sichqonlar mushuk kelishini bilish uchun bo'yniga qo'ng'iroq bog'lashga qaror qiladi. Ammo bir keksa sichqon so'raydi: 'Kim bog'laydi?' Xulosa: reja taklif qilish oson, bajarish qiyin.\n\n📚 bell /bel/ — qo'ng'iroq; suggest /səˈdʒest/ — taklif qilmoq; plan /plæn/ — reja"
     },
     {
-      "id": "n085", "type": "science", "level": "B2", "emoji": "🌈",
+      "id": "n085",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🌈",
       "title": "Why the sky is blue",
       "text": "🔬 SCIENCE FACT\n\nThe sky is blue because air scatters blue light from the Sun more than other colours. At sunset the light travels farther, so we see red and orange instead.\n\n🇺🇿 Osmon ko'k, chunki havo Quyoshdan kelgan ko'k nurni boshqa ranglardan ko'proq sochadi. Kun botishda nur uzoqroq yo'l bosadi, shuning uchun qizil va to'q sariqni ko'ramiz.\n\n📚 So'zlar: scatter /ˈskætə/ — sochmoq; sunset /ˈsʌnset/ — kun botishi; colour /ˈkʌlə/ — rang"
     },
     {
-      "id": "n086", "type": "history", "level": "B1", "emoji": "💡",
+      "id": "n086",
+      "type": "history",
+      "level": "B1",
+      "emoji": "💡",
       "title": "Edison and the light bulb",
       "text": "🏛 HISTORY FACT\n\nThomas Edison did not invent the first light bulb, but in 1879 he created one that was practical and long-lasting. He famously said genius is '1% inspiration and 99% perspiration'.\n\n🇺🇿 Tomas Edison birinchi lampochkani ixtiro qilmagan, lekin 1879-yilda amaliy va uzoq ishlaydiganini yaratgan. Uning mashhur so'zi: daholik '1% ilhom va 99% mehnat'.\n\n📚 So'zlar: practical /ˈpræktɪkl/ — amaliy; genius /ˈdʒiːniəs/ — daho; effort /ˈefət/ — mehnat"
     },
     {
-      "id": "n087", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n087",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Food & Cooking",
       "text": "🔤 VOCABULARY · Food\n\n📌 delicious /dɪˈlɪʃəs/ — mazali\n📌 recipe /ˈresəpi/ — retsept\n📌 ingredient /ɪnˈɡriːdiənt/ — masalliq\n\n💬 This recipe needs only five ingredients, and the result is delicious.\n🇺🇿 'recipe' (retsept) va 'receipt' /rɪˈsiːt/ (chek) — yozilishi o'xshash, ma'nosi boshqa!"
     },
     {
-      "id": "n088", "type": "science", "level": "A2", "emoji": "🐘",
+      "id": "n088",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🐘",
       "title": "Elephants and memory",
       "text": "🔬 SCIENCE FACT\n\nElephants have excellent memories. They can remember other elephants and places for many years, and even recognise old friends after a long time apart.\n\n🇺🇿 Fillarning xotirasi juda kuchli. Ular boshqa fillar va joylarni yillab eslab qoladi, hatto uzoq ajralishdan keyin ham eski do'stlarini taniydi.\n\n📚 So'zlar: memory /ˈmeməri/ — xotira; remember /rɪˈmembə/ — eslamoq; recognise /ˈrekəɡnaɪz/ — tanimoq"
     },
     {
-      "id": "n089", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n089",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Wolf in Sheep's Clothing",
       "text": "📖 SHORT STORY · The Wolf in Sheep's Clothing\n\nA wolf put on a sheepskin and slipped in among the flock to hunt easily. But that evening the shepherd, wanting meat, picked the disguised wolf by mistake — and so the trick destroyed the trickster.\n\n💡 Moral: Deception often traps the deceiver.\n🇺🇿 Bo'ri qo'y terisini kiyib, podaga qo'shiladi. Lekin kechqurun cho'pon go'sht uchun aynan o'sha 'qo'y'ni tanlaydi. Xulosa: hiyla ko'pincha hiylagarning o'zini tutadi.\n\n📚 disguise /dɪsˈɡaɪz/ — niqoblamoq; flock /flɒk/ — poda; deceive /dɪˈsiːv/ — aldamoq"
     },
     {
-      "id": "n090", "type": "science", "level": "B1", "emoji": "🍅",
+      "id": "n090",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🍅",
       "title": "Tomato is a fruit",
       "text": "🔬 SCIENCE FACT\n\nBotanically, a tomato is a fruit, not a vegetable, because it grows from a flower and contains seeds. In cooking, though, we usually treat it as a vegetable.\n\n🇺🇿 Botanika bo'yicha pomidor — meva, sabzavot emas, chunki u guldan o'sadi va urug'i bor. Lekin oshxonada uni sabzavot sifatida ishlatamiz.\n\n📚 So'zlar: fruit /fruːt/ — meva; seed /siːd/ — urug'; vegetable /ˈvedʒtəbl/ — sabzavot"
     },
     {
-      "id": "n091", "type": "history", "level": "B1", "emoji": "🐫",
+      "id": "n091",
+      "type": "history",
+      "level": "B1",
+      "emoji": "🐫",
       "title": "The Silk Road",
       "text": "🏛 HISTORY FACT\n\nThe Silk Road was a network of trade routes linking China to Europe for over 1,500 years. Cities of Uzbekistan, like Samarkand and Bukhara, were vital stops where goods and ideas were exchanged.\n\n🇺🇿 Ipak yo'li 1500 yildan ortiq Xitoyni Yevropa bilan bog'lagan savdo yo'llari tarmog'i edi. Samarqand va Buxoro kabi O'zbekiston shaharlari mol va g'oyalar almashinadigan muhim bekatlar bo'lgan.\n\n📚 So'zlar: trade /treɪd/ — savdo; route /ruːt/ — yo'l; exchange /ɪksˈtʃeɪndʒ/ — almashmoq"
     },
     {
-      "id": "n092", "type": "vocabulary", "level": "C1", "emoji": "🔤",
+      "id": "n092",
+      "type": "vocabulary",
+      "level": "C1",
+      "emoji": "🔤",
       "title": "Express Certainty",
       "text": "🔤 CERTAINTY · C1\n\n📌 undoubtedly /ʌnˈdaʊtɪdli/ — shubhasiz\n📌 presumably /prɪˈzjuːməbli/ — ehtimol\n📌 arguably /ˈɑːɡjuəbli/ — bahsli ravishda (eng...)\n\n💬 Reading is arguably the best way to learn, and it undoubtedly builds vocabulary.\n🇺🇿 Bu so'zlar fikrga ishonch yoki ehtiyotkorlik darajasini qo'shadi — IELTS 7.0+ uchun foydali."
     },
     {
-      "id": "n093", "type": "science", "level": "B2", "emoji": "🧊",
+      "id": "n093",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🧊",
       "title": "Hot water tricks",
       "text": "🔬 SCIENCE FACT\n\nIce floats because frozen water is about 9% less dense than liquid water. This is rare — most substances are denser when solid, but water is special, and that is why lakes freeze from the top down.\n\n🇺🇿 Muz suzadi, chunki muzlagan suv suyuq suvdan ~9% kam zich. Bu noyob hodisa — ko'p moddalar qattiq holatda zichroq, lekin suv alohida, shuning uchun ko'llar yuzasidan muzlaydi.\n\n📚 So'zlar: dense /dens/ — zich; solid /ˈsɒlɪd/ — qattiq; rare /reə/ — noyob"
     },
     {
-      "id": "n094", "type": "idiom", "level": "B2", "emoji": "🗣",
+      "id": "n094",
+      "type": "idiom",
+      "level": "B2",
+      "emoji": "🗣",
       "title": "Idiom: Cost an arm and a leg",
       "text": "🗣 IDIOM OF THE DAY\n\n💸 'cost an arm and a leg' — juda qimmat turmoq\n\n💬 That new phone costs an arm and a leg!\n🇺🇿 So'zma-so'z emas — ma'nosi 'juda qimmat'. Suhbatda narx haqida ishlatiladi.\n\n📚 expensive /ɪkˈspensɪv/ — qimmat; price /praɪs/ — narx"
     },
     {
-      "id": "n095", "type": "story", "level": "A2", "emoji": "📖",
+      "id": "n095",
+      "type": "story",
+      "level": "A2",
+      "emoji": "📖",
       "title": "The Milkmaid's Dream",
       "text": "📖 SHORT STORY · The Milkmaid and Her Pail\n\nA girl carried milk on her head and dreamed of selling it, buying eggs, then chickens, then a fine dress. Lost in her daydream, she tossed her head proudly — and spilled all the milk.\n\n💡 Moral: Do not count your chickens before they hatch.\n🇺🇿 Qiz sut ko'tarib, uni sotib boyish haqida xayol suradi. Xayolga berilib boshini silkitadi va sutni to'kib yuboradi. Xulosa: ish bitmasdan natijani sanama.\n\n📚 pail /peɪl/ — chelak; dream /driːm/ — orzu; spill /spɪl/ — to'kmoq"
     },
     {
-      "id": "n096", "type": "science", "level": "B1", "emoji": "🩸",
+      "id": "n096",
+      "type": "science",
+      "level": "B1",
+      "emoji": "🩸",
       "title": "Blood is always red",
       "text": "🔬 SCIENCE FACT\n\nHuman blood is always red, never blue. Veins look blue through the skin only because of how light passes through your body — but the blood inside is dark red.\n\n🇺🇿 Inson qoni doim qizil, hech qachon ko'k emas. Tomirlar teri ostida ko'k ko'rinadi, chunki yorug'lik tana orqali shunday o'tadi — lekin ichidagi qon to'q qizil.\n\n📚 So'zlar: blood /blʌd/ — qon; vein /veɪn/ — tomir; skin /skɪn/ — teri"
     },
     {
-      "id": "n097", "type": "history", "level": "B2", "emoji": "📚",
+      "id": "n097",
+      "type": "history",
+      "level": "B2",
+      "emoji": "📚",
       "title": "Al-Beruni the scholar",
       "text": "🏛 HISTORY · Uzbekistan\n\nAl-Beruni (973-1048), born in Khwarazm, was a brilliant scholar who studied astronomy, geography and history. He estimated the Earth's radius with remarkable accuracy a thousand years ago.\n\n🇺🇿 Xorazmda tug'ilgan Abu Rayhon Beruniy (973-1048) astronomiya, geografiya va tarixni o'rgangan buyuk olim. U ming yil avval Yer radiusini hayratlanarli aniqlikda hisoblagan.\n\n📚 So'zlar: scholar /ˈskɒlə/ — olim; estimate /ˈestɪmeɪt/ — taxminan hisoblamoq; accuracy /ˈækjərəsi/ — aniqlik"
     },
     {
-      "id": "n098", "type": "grammar", "level": "B1", "emoji": "📚",
+      "id": "n098",
+      "type": "grammar",
+      "level": "B1",
+      "emoji": "📚",
       "title": "will vs going to",
       "text": "📚 GRAMMAR · Future\n\n'will' — shu zahoti qaror yoki bashorat: I will help you.\n'going to' — reja yoki ko'rinib turgan natija: I'm going to study tonight.\n\n💬 Look at those clouds — it's going to rain. OK, I'll take an umbrella.\n🇺🇿 Reja oldindan bor bo'lsa 'going to', shu onda qaror qilsangiz 'will'.\n\n📚 plan /plæn/ — reja; decision /dɪˈsɪʒn/ — qaror"
     },
     {
-      "id": "n099", "type": "science", "level": "A2", "emoji": "🐝",
+      "id": "n099",
+      "type": "science",
+      "level": "A2",
+      "emoji": "🐝",
       "title": "Bees and flowers",
       "text": "🔬 SCIENCE FACT\n\nBees help grow much of our food. As they move from flower to flower for nectar, they carry pollen, which lets many plants and fruits grow.\n\n🇺🇿 Asalarilar oziq-ovqatimizning ko'p qismini yetishtirishga yordam beradi. Guldan gulga nektar uchun uchganda, ular changni tashiydi va ko'p o'simlik va mevalar o'sadi.\n\n📚 So'zlar: bee /biː/ — asalari; pollen /ˈpɒlən/ — chang; grow /ɡrəʊ/ — o'smoq"
     },
     {
-      "id": "n100", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n100",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Health Words",
       "text": "🔤 VOCABULARY · Health\n\n📌 healthy /ˈhelθi/ — sog'lom\n📌 exercise /ˈeksəsaɪz/ — mashq, sport\n📌 sleep well — yaxshi uxlamoq\n\n💬 To stay healthy, exercise often, eat well, and sleep well.\n🇺🇿 'healthy' — sog'lom (sifat), 'health' /helθ/ — sog'liq (ot)."
     },
     {
-      "id": "n101", "type": "history", "level": "B1", "emoji": "🕌",
+      "id": "n101",
+      "type": "history",
+      "level": "B1",
+      "emoji": "🕌",
       "title": "Bibi-Khanym Mosque",
       "text": "🏛 HISTORY · Uzbekistan\n\nThe Bibi-Khanym Mosque in Samarkand, built in the early 1400s under Amir Temur, was one of the largest mosques of the Islamic world at the time. Its huge entrance still amazes visitors today.\n\n🇺🇿 Samarqanddagi Bibixonim masjidi 1400-yillar boshida Amir Temur davrida qurilgan va o'sha davrda islom olamining eng yirik masjidlaridan biri bo'lgan. Uning ulkan darvozasi bugun ham hayratga soladi.\n\n📚 So'zlar: mosque /mɒsk/ — masjid; entrance /ˈentrəns/ — darvoza, kirish; amaze /əˈmeɪz/ — hayratlantirmoq"
     },
     {
-      "id": "n102", "type": "story", "level": "B1", "emoji": "📖",
+      "id": "n102",
+      "type": "story",
+      "level": "B1",
+      "emoji": "📖",
       "title": "The Oak and the Reeds",
       "text": "📖 SHORT STORY · The Oak and the Reeds\n\nA proud oak tree mocked the thin reeds that bent in every wind. Then a great storm came. The oak stood stiff and was torn from the ground, while the reeds bent low and survived.\n\n💡 Moral: It is better to bend than to break.\n🇺🇿 Mag'rur eman shamolda egilgan qamishlarni mazax qiladi. Bo'ron kelganda eman qattiq turib sinadi, qamishlar esa egilib omon qoladi. Xulosa: sinishdan ko'ra egilish yaxshiroq.\n\n📚 proud /praʊd/ — mag'rur; bend /bend/ — egilmoq; storm /stɔːm/ — bo'ron"
     },
     {
-      "id": "n103", "type": "science", "level": "B2", "emoji": "🦠",
+      "id": "n103",
+      "type": "science",
+      "level": "B2",
+      "emoji": "🦠",
       "title": "More bacteria than cells",
       "text": "🔬 SCIENCE FACT\n\nYour body contains trillions of bacteria — roughly as many bacterial cells as human cells. Most of them are helpful, especially in your gut, where they aid digestion.\n\n🇺🇿 Tanangizda trillionlab bakteriya bor — taxminan inson hujayralari qadar. Ularning ko'pi foydali, ayniqsa ichakda ovqat hazmiga yordam beradi.\n\n📚 So'zlar: bacteria /bækˈtɪəriə/ — bakteriya; cell /sel/ — hujayra; digestion /daɪˈdʒestʃən/ — hazm"
     },
     {
-      "id": "n104", "type": "test", "level": "B2", "emoji": "📝",
+      "id": "n104",
+      "type": "test",
+      "level": "B2",
+      "emoji": "📝",
       "title": "Word Form Quiz",
       "text": "📝 VOCABULARY TEST\n\nChoose the correct word:\n\nHer English improved ____ after daily practice.\n\nA) significant\nB) significantly\nC) significance\nD) signify\n\n💭 Javob 👇",
       "answer": "✅ To'g'ri javob: B) significantly\n\n📖 Fe'lni (improved) izohlash uchun ravish (adverb) kerak: significantly. A — sifat, C — ot, D — fe'l."
     },
     {
-      "id": "n105", "type": "vocabulary", "level": "B1", "emoji": "🔤",
+      "id": "n105",
+      "type": "vocabulary",
+      "level": "B1",
+      "emoji": "🔤",
       "title": "Never Give Up",
       "text": "🔤 MOTIVATION WORDS\n\n📌 persist /pəˈsɪst/ — qat'iyat bilan davom etmoq\n📌 progress /ˈprəʊɡres/ — taraqqiyot\n📌 succeed /səkˈsiːd/ — muvaffaqiyatga erishmoq\n\n💬 If you persist a little every day, you will see progress and finally succeed.\n🇺🇿 Har kuni ozgina qat'iyat bilan ishlasangiz, taraqqiyotni ko'rasiz va muvaffaqiyatga erishasiz."
     }
